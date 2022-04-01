@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 0,
+                "center_street": "仙岳路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10416978504169,
+                    24.494695158592478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 1,
+                "center_street": "嘉禾路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.12290628204042,
+                    24.49079751939279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 2,
+                "center_street": "厦禾路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11248638728088,
+                    24.473182757669534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 3,
+                "center_street": "吕岭路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17866392536523,
+                    24.483839617793663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 5,
+                "center_street": "金尚路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13992935111,
+                    24.48589243490057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 6,
+                "center_street": "湖滨南路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09488013827443,
+                    24.47381156743249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 7,
+                "center_street": "莲前西路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13051106699373,
+                    24.47853518542945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 9,
+                "center_street": "禾山路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.12423406741428,
+                    24.52595561840574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 10,
+                "center_street": "东渡路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07354286716406,
+                    24.480754738062558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 11,
+                "center_street": "环岛干道",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18306445456552,
+                    24.49883221278384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 13,
+                "center_street": "枋钟路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13243478824272,
+                    24.534057890459536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 14,
+                "center_street": "鹭江道",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.06831481892827,
+                    24.462876007709557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 16,
+                "center_street": "环岛干道辅路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15019644410233,
+                    24.543222953282754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 17,
+                "center_street": "云顶中路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14769726834385,
+                    24.478540529438217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 18,
+                "center_street": "云顶北路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1509630580243,
+                    24.526498443603966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 20,
+                "center_street": "禾东路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15153478097271,
+                    24.50128997710358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 23,
+                "center_street": "金湖路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14793046845416,
+                    24.51243969761368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 25,
+                "center_street": "思明南路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08135300475689,
+                    24.447788538969405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 28,
+                "center_street": "大学路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08983498504041,
+                    24.436857027071216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 30,
+                "center_street": "文屏路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11061629487082,
+                    24.460262595630088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 33,
+                "center_street": "洪莲路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16151617149093,
+                    24.484243689197108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 34,
+                "center_street": "龙虎山路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11765254226705,
+                    24.440917052978378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 35,
+                "center_street": "兴隆路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1173142404121,
+                    24.511260138759535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 40,
+                "center_street": "五缘湾道",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17688366350615,
+                    24.519101105807707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#E02401",
+                "cluster_center": 41,
+                "center_street": "镇海路",
+                "original_color": "#E02401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0793999987483,
+                    24.453987567916805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#E02401",
+                "cluster_center": 42,
+                "center_street": "环岛南路",
+                "original_color": "#E02401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14255186421495,
+                    24.435189456095454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 45,
+                "center_street": "黄厝路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1573836068242,
+                    24.448470847737305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 58,
+                "center_street": "长岸路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09171576728603,
+                    24.524250860646603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 60,
+                "center_street": "X410",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18493799999999,
+                    24.507712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 61,
+                "center_street": "嘉园路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10770560535836,
+                    24.52002046517796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 80,
+                "center_street": "长浩路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10058779182184,
+                    24.52612631479125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 89,
+                "center_street": "会展南二路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16527081902974,
+                    24.456084459458776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 93,
+                "center_street": "云顶南路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14735079190878,
+                    24.45592131434003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 104,
+                "center_street": "前埔南路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16365395894287,
+                    24.466089270813228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#6ECB63",
+                "cluster_center": 116,
+                "center_street": "殿前一路",
+                "original_color": "#6ECB63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10001134917628,
+                    24.531467423376803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "color": "#F78812",
+                "cluster_center": 259,
+                "center_street": "高崎北路",
+                "original_color": "#F78812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.12063347927038,
+                    24.55068787448154
+                ]
+            }
+        }
+    ]
+}

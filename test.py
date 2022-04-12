@@ -1,10 +1,10 @@
 # -*- coding: UTF-8 -*-
-from fileProcessing import FileProcessing
+from module.fileProcessing import FileProcessing
 import copy
 
 
 def CorrectionCoordErr(coord_data):
-    """mapbox下的坐标偏移纠正"""
+    """mapbox下的坐标偏移纠正,lng,lat"""
     coord_data[0] -= 0.0113
     coord_data[1] -= 0.0034
     return coord_data
@@ -13,27 +13,27 @@ def CorrectionCoordErr(coord_data):
 fp = FileProcessing()
 if __name__ == '__main__':
 
-    data = fp.load_data("./static/od_data/get_on_clustered")
-    result = {
-        "type": "FeatureCollection",
-        "features": []
-    }
-    tmp = {
-        "type": "Feature",
-        "properties": {
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-            ]
-        }
-    }
-
-    for each in data["features"]:
-        if each["properties"]["label"] != "-1":
-            result["features"].append(each)
-
-    fp.save_file(result, "./static/od_data/get_on_classed")
+    # data = fp.load_data("./static/od_data/get_on_clustered")
+    # node_result = {
+    #     "type": "FeatureCollection",
+    #     "features": []
+    # }
+    # node_tmp = {
+    #     "type": "Feature",
+    #     "properties": {
+    #     },
+    #     "geometry": {
+    #         "type": "Point",
+    #         "coordinates": [
+    #         ]
+    #     }
+    # }
+    #
+    # for each in data["features"]:
+    #     if each["properties"]["label"] != "-1":
+    #         result["features"].append(each)
+    #
+    # fp.save_file(result, "./static/od_data/get_on_classed")
     # 统计无向边
     # data = fp.load_data("./static/network_data/center_network")
     # links = copy.deepcopy(data["link"])
@@ -112,7 +112,6 @@ if __name__ == '__main__':
     #       "coordinates": []
     #     }
     #   }
-    #
     # data = fp.load_data("link_geo")
     # for each in data:
     #     link_width = each[0]
@@ -125,4 +124,63 @@ if __name__ == '__main__':
     #     result["features"].append(t)
     # fp.save_file(result, "link_geo")
 
+    # create community graph
+    # data = fp.load_data("./static/community_data/resorted_community")
+    # node_data = data["node"]
+    # for each in node_data:
+    #     t = copy.deepcopy(node_tmp)
+    #     t["properties"]["name"] = each["name"]
+    #     t["properties"]["id"] = each["id"]
+    #     t["properties"]["speed"] = each["speed"]
+    #     if "color" not in each.keys():
+    #         t["properties"]["color"] = "#808080"
+    #     else:
+    #         t["properties"]["color"] = each["color"]
+    #
+    #     coord = CorrectionCoordErr([each["lng"], each["lat"]])
+    #     t["geometry"]["coordinates"] = coord
+    #     node_result["features"].append(t)
+    #
+    # merge_link = copy.deepcopy(data["link"])
+    #
+    # for i in range(0, len(merge_link)):
+    #     source = merge_link[i]["source"]
+    #     target = merge_link[i]["target"]
+    #     for j in range(i+1, len(merge_link)):
+    #         if (merge_link[j]["source"] == target and merge_link[j]["target"] == source) and merge_link[j]["source"]!=-1:
+    #             merge_link[j]["source"] = -1
+    #             merge_link[j]["target"] = -1
+    #             break
+    # for item in merge_link:
+    #     if item["source"] != -1 and item["target"] != -1:
+    #         t = copy.deepcopy(tmp)
+    #         start = None
+    #         end = None
+    #         for obj in node_data:
+    #             if obj["id"] == item["source"]:
+    #                 start = obj
+    #             if obj["id"] == item["target"]:
+    #                 end = obj
+    #         start_coord = CorrectionCoordErr([start["lng"], start["lat"]])
+    #         end_coord = CorrectionCoordErr([end["lng"], end["lat"]])
+    #         t["geometry"]["coordinates"] = [start_coord, end_coord]
+    #         result["features"].append(t)
+    #
+    # community_geo = {"node": node_result, "link": result}
+    # fp.save_file(community_geo, "community_geo")
+
+    data = fp.load_data("./static/community_data/community_geo")
+    node = data["node"]
+    speed_color = ["#E02401", "#F78812", "#FFE1AF", "#B1E693", "#6ECB63"]
+
+    for each in node["features"]:
+        speed = each["properties"]["speed"]
+        if speed <= 20:
+            each["properties"]["color"] = speed_color[0]
+        elif 20 < speed < 30:
+            each["properties"]["color"] = speed_color[1]
+        else:
+            each["properties"]["color"] = speed_color[4]
+
+    fp.save_file(data, "./static/community_data/community_geo1")
     pass

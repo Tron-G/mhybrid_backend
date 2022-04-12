@@ -1,9 +1,13 @@
 # -*- coding: UTF-8 -*-
-from flask import Flask, redirect, jsonify, request
+from time import sleep
+
+from flask import Flask, jsonify, request
 from flask_cors import cross_origin
-from ODModule import ODModule
-from GetRoute import Getroute
-from TrafficNetwork import TrafficNetwork
+# from ODModule import ODModule
+# from GetRoute import Getroute
+# from TrafficNetwork import TrafficNetwork
+from module import *
+
 
 app = Flask(__name__)
 
@@ -17,7 +21,7 @@ def hello_world():
 @cross_origin()
 def get_on_data():
     """获取上车热点数据"""
-    od = ODModule()
+    od = ODModule.ODModule("./static/od_data")
     data = od.get_on_data()
     return jsonify(data)
 
@@ -26,7 +30,7 @@ def get_on_data():
 @cross_origin()
 def get_off_data():
     """获取下车热点数据"""
-    od = ODModule()
+    od = ODModule.ODModule("./static/od_data")
     data = od.get_off_data()
     return jsonify(data)
 
@@ -35,7 +39,7 @@ def get_off_data():
 @cross_origin()
 def home_route():
     """给定点使用api计算路线测试数据"""
-    route = Getroute()
+    route = GetRoute.GetRoute()
     data = route.getroute()
     return jsonify(data)
 
@@ -44,9 +48,29 @@ def home_route():
 @cross_origin()
 def get_cluster_network():
     """社区聚类网络数据"""
-    net = TrafficNetwork()
-    data = {"node": net.clustered_node(), "link": net.clustered_link()}
+    net = TrafficNetwork.TrafficNetwork("./static/network_data")
+    data = net.clustered_network()
     return jsonify(data)
+
+
+@app.route('/get_community_network', methods=['GET', 'POST'])
+@cross_origin()
+def get_community_network():
+    """街道网络数据"""
+    net = TrafficNetwork.TrafficNetwork("./static/community_data")
+    data = net.community_network()
+    return jsonify(data)
+
+
+@app.route('/calc_multi_route', methods=['GET', 'POST'])
+@cross_origin()
+def calc_multi_route():
+    """多模式路线计算结果数据"""
+    data = request.get_json()
+    # print(data["origin_site"], data["destination_site"])
+    ga = MultiRoute.MultiRoute("./static/GA_input_data")
+    route = ga.calc_multi_route(data)
+    return jsonify(route)
 
 
 if __name__ == '__main__':

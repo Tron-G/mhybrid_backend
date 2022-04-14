@@ -169,18 +169,19 @@ if __name__ == '__main__':
     # community_geo = {"node": node_result, "link": result}
     # fp.save_file(community_geo, "community_geo")
 
-    data = fp.load_data("./static/community_data/community_geo")
-    node = data["node"]
-    speed_color = ["#E02401", "#F78812", "#FFE1AF", "#B1E693", "#6ECB63"]
+    # data = fp.load_data("./static/community_data/community_geo")
+    # node = data["node"]
+    # speed_color = ["#E02401", "#F78812", "#FFE1AF", "#B1E693", "#6ECB63"]
+    #
+    # for each in node["features"]:
+    #     speed = each["properties"]["speed"]
+    #     if speed <= 20:
+    #         each["properties"]["color"] = speed_color[0]
+    #     elif 20 < speed < 30:
+    #         each["properties"]["color"] = speed_color[1]
+    #     else:
+    #         each["properties"]["color"] = speed_color[4]
+    #
+    # fp.save_file(data, "./static/community_data/community_geo1")
 
-    for each in node["features"]:
-        speed = each["properties"]["speed"]
-        if speed <= 20:
-            each["properties"]["color"] = speed_color[0]
-        elif 20 < speed < 30:
-            each["properties"]["color"] = speed_color[1]
-        else:
-            each["properties"]["color"] = speed_color[4]
-
-    fp.save_file(data, "./static/community_data/community_geo1")
     pass

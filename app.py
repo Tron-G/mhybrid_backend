@@ -3,9 +3,6 @@ from time import sleep
 
 from flask import Flask, jsonify, request
 from flask_cors import cross_origin
-# from ODModule import ODModule
-# from GetRoute import Getroute
-# from TrafficNetwork import TrafficNetwork
 from module import *
 
 

@@ -4,12 +4,18 @@ from .fileProcessing import FileProcessing
 from .MyGA import MyGA
 import networkx as nx
 import copy
+import math
 
 
 class MultiRoute:
     """计算多模式路线"""
+
     def __init__(self, file_path):
         self.fp = FileProcessing(file_path)
+        # 最多返回路线数量
+        self.MAX_ROUTE = 5
+        self.street_data = self.fp.load_data("resorted_community")
+        self.min_price_graph = self.fp.load_data("min_price_graph")
         pass
 
     def calc_multi_route(self, input_data):
@@ -21,9 +27,8 @@ class MultiRoute:
 
         # dual_graph = self.fp.load_data("Undirected_community_dual_matrix")
         transport_index = self.fp.load_data("transport_index")
-        min_price_graph = self.fp.load_data("min_price_graph")
 
-        node_len = len(min_price_graph)
+        node_len = len(self.min_price_graph)
         input_nodes = []
         for i in range(node_len):
             if i != 90 and i != 96:
@@ -32,18 +37,27 @@ class MultiRoute:
         input_edges = []
         for i in range(node_len):
             for j in range(node_len):
-                if min_price_graph[i][j] != -1:
-                    input_edges.append((str(i), str(j), min_price_graph[i][j]))
+                if self.min_price_graph[i][j] != -1:
+                    input_edges.append((str(i), str(j), self.min_price_graph[i][j]))
 
         G = nx.Graph()
         # 往图添加节点和边
         G.add_nodes_from(input_nodes)
         G.add_weighted_edges_from(input_edges)
 
-        ga = MyGA(G, min_price_graph, transport_index, input_nodes, [origin_site_id, destination_site], 100, 40, 0.8, 0.05)
+        ga = MyGA(G, self.min_price_graph, transport_index, input_nodes, [origin_site_id, destination_site], 100, 40, 0.8,
+                  0.05)
         route = ga.run()
+
+        # 截取排行前的结果，减少计算
+        if len(route) > self.MAX_ROUTE:
+            route = route[:self.MAX_ROUTE]
+
         route_data = self.get_route_geo(route)
-        return route_data
+        route_attr = self.calc_attr(route)
+
+        result = {"route": route_data, "route_attr": route_attr, "all_history_Y": ga.all_history_Y}
+        return result
 
     def get_street_id_by_name(self, name):
         """根据站点id获取名称"""
@@ -55,7 +69,7 @@ class MultiRoute:
 
     def get_route_geo(self, route):
         """将路线节点数组转换成geo类型的数据"""
-        street_data = self.fp.load_data("resorted_community")
+
         route_geo_data = []
         for each in route:
             result = {}
@@ -65,7 +79,7 @@ class MultiRoute:
             route_coord_lis = []
             node_tmp = []
             for item in route_lis:
-                for node_info in street_data["node"]:
+                for node_info in self.street_data["node"]:
                     if int(item) == node_info["id"]:
                         node_tmp.append({
                             "properties": {
@@ -82,13 +96,13 @@ class MultiRoute:
             # 将路线节点数组转换成边geo数据，加入边的出行模式属性
             link_tmp = []
             for i in range(1, len(route_lis)):
-                transport_mode = "car" if route_mode[i-1] == 1 else "bike"
+                transport_mode = "car" if route_mode[i - 1] == 1 else "bike"
                 link_tmp.append({
                     "properties": {
                         "transport_mode": transport_mode
                     },
                     "coordinates": [
-                        route_coord_lis[i-1],
+                        route_coord_lis[i - 1],
                         route_coord_lis[i]
                     ]
                 })
@@ -149,6 +163,73 @@ class MultiRoute:
             result["features"].append(tmp)
         return result
 
+    def calc_attr(self, route_data):
+        """计算属性：换乘次数，花费，碳排放"""
+        route_attr = []
+        distance_table = self.fp.load_data("real_distance_table")
+        index = 0
+        for each in route_data:
+            route_node = each["route"]
+            route_mode = each["transport_mode"]
+            cost_time = each["cost_time"]
+            # 路线上街道的速度
+            route_speed = []
+            # 各条路段的真实街道距离
+            route_distance = []
+            # 各条路段的出行用时
+            route_time = []
 
+            for node in route_node:
+                for item in self.street_data["node"]:
+                    if int(node) == item["id"]:
+                        route_speed.append(item["speed"])
+            for i in range(1, len(route_node)):
+                start = int(route_node[i - 1])
+                end = int(route_node[i])
+                route_distance.append(distance_table[start][end])
+                route_time.append(self.min_price_graph[start][end])
 
+            # 换乘次数
+            trans_time = 0
+            for i in range(1, len(route_mode)):
+                if route_mode[i] != route_mode[i - 1]:
+                    trans_time += 1
+            # 路线花费
+            cost_money = 0
+            car_dis = 0
+            for i in range(0, len(route_distance)):
+                if route_mode[i] == 1 and i != len(route_distance) - 1:
+                    car_dis += route_distance[i]
+                elif car_dis != 0 and (route_mode[i] == 0 or i == len(route_distance) - 1):
+                    if car_dis <= 3000:
+                        money = 10
+                    else:
+                        money = math.ceil((car_dis - 3000) / 1000) * 2 + 10
+                    cost_money += money
+                    car_dis = 0
 
+            # 路程碳排放量, 公式参见：dx.doi.org/10.1016/j.jtrangeo.2017.05.001
+            route_carbon_list = []
+            for i in range(1, len(route_speed)):
+                if route_mode[i-1] == 0:
+                    route_carbon_list.append(0)
+                else:
+                    if route_speed[i] > route_speed[i - 1]:
+                        delta = 1
+                    else:
+                        delta = 0
+                    carbon = 0.002322 * (0.3 * route_time[i-1] + 0.028 * route_distance[i-1] + 0.056*delta*(route_speed[i] ** 2 - route_speed[i - 1] ** 2))
+                    route_carbon_list.append(carbon)
+
+            tmp = {
+                "route_id": index,
+                "cost_time": cost_time,
+                "transfer_time": trans_time,
+                "cost_money": cost_money,
+                "route_carbon": sum(route_carbon_list),
+                "route_carbon_list": route_carbon_list,
+            }
+            route_attr.append(tmp)
+            index += 1
+
+        return route_attr

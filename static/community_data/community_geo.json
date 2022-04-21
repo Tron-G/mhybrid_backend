@@ -8,7 +8,7 @@
                     "name": "厦禾路",
                     "id": 0,
                     "speed": 20.61,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -24,7 +24,7 @@
                     "name": "湖滨东路",
                     "id": 1,
                     "speed": 23.85,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -40,7 +40,7 @@
                     "name": "湖滨中路",
                     "id": 2,
                     "speed": 27.58,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -56,7 +56,7 @@
                     "name": "镇海路",
                     "id": 3,
                     "speed": 17.03,
-                    "color": "#8D1A24"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -72,7 +72,7 @@
                     "name": "湖明路",
                     "id": 4,
                     "speed": 18.83,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -88,7 +88,7 @@
                     "name": "禾祥东路",
                     "id": 5,
                     "speed": 15.67,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -104,7 +104,7 @@
                     "name": "后埭溪路",
                     "id": 6,
                     "speed": 22.2,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -120,7 +120,7 @@
                     "name": "站南路",
                     "id": 7,
                     "speed": 30.98,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -136,7 +136,7 @@
                     "name": "东浦路",
                     "id": 8,
                     "speed": 18.81,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -152,7 +152,7 @@
                     "name": "湖光路",
                     "id": 9,
                     "speed": 20.39,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -168,7 +168,7 @@
                     "name": "东坪山路",
                     "id": 10,
                     "speed": 20.59,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -184,7 +184,7 @@
                     "name": "凤屿路",
                     "id": 11,
                     "speed": 19.49,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -200,7 +200,7 @@
                     "name": "金榜路",
                     "id": 12,
                     "speed": 19.52,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -216,7 +216,7 @@
                     "name": "火车站莲坂商圈厦禾路",
                     "id": 13,
                     "speed": 16.48,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -232,7 +232,7 @@
                     "name": "金榜南路",
                     "id": 14,
                     "speed": 29.58,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -248,7 +248,7 @@
                     "name": "S206(文屏路)",
                     "id": 15,
                     "speed": 41.13,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -264,7 +264,7 @@
                     "name": "成功大道中医院天桥",
                     "id": 16,
                     "speed": 39.0,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -280,7 +280,7 @@
                     "name": "东坪二里",
                     "id": 17,
                     "speed": 21.81,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -296,7 +296,7 @@
                     "name": "万寿路",
                     "id": 18,
                     "speed": 26.79,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -312,7 +312,7 @@
                     "name": "莲兴路",
                     "id": 19,
                     "speed": 18.91,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -328,7 +328,7 @@
                     "name": "槟榔西里",
                     "id": 20,
                     "speed": 23.45,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -344,7 +344,7 @@
                     "name": "公园南路",
                     "id": 21,
                     "speed": 19.69,
-                    "color": "#8D1A24"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -360,7 +360,7 @@
                     "name": "大厝山路",
                     "id": 22,
                     "speed": 36.16,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -376,7 +376,7 @@
                     "name": "火车站莲坂商圈湖滨南路",
                     "id": 23,
                     "speed": 22.26,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -392,7 +392,7 @@
                     "name": "坂尾路",
                     "id": 24,
                     "speed": 14.21,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -408,7 +408,7 @@
                     "name": "双涵路",
                     "id": 25,
                     "speed": 19.48,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -424,7 +424,7 @@
                     "name": "槟榔东里",
                     "id": 26,
                     "speed": 25.35,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -440,7 +440,7 @@
                     "name": "梧村隧道",
                     "id": 27,
                     "speed": 31.26,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -456,7 +456,7 @@
                     "name": "文灶街",
                     "id": 28,
                     "speed": 21.26,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -472,7 +472,7 @@
                     "name": "东门路",
                     "id": 29,
                     "speed": 27.36,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -488,7 +488,7 @@
                     "name": "火车站莲坂商圈湖滨东路",
                     "id": 30,
                     "speed": 17.89,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -504,7 +504,7 @@
                     "name": "南广场东侧人行天桥",
                     "id": 31,
                     "speed": 30.84,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -520,7 +520,7 @@
                     "name": "金榜南二路",
                     "id": 32,
                     "speed": 34.36,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -536,7 +536,7 @@
                     "name": "文屏巷",
                     "id": 33,
                     "speed": 13.47,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -552,7 +552,7 @@
                     "name": "湖滨六里",
                     "id": 34,
                     "speed": 16.6,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -568,7 +568,7 @@
                     "name": "莲景三路",
                     "id": 35,
                     "speed": 17.16,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -584,7 +584,7 @@
                     "name": "站东一路",
                     "id": 36,
                     "speed": 24.61,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -600,7 +600,7 @@
                     "name": "火车站莲坂商圈凤屿路",
                     "id": 37,
                     "speed": 20.49,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -616,7 +616,7 @@
                     "name": "站站西路",
                     "id": 38,
                     "speed": 34.56,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -632,7 +632,7 @@
                     "name": "火车站莲坂商圈湖明路",
                     "id": 39,
                     "speed": 18.97,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -648,7 +648,7 @@
                     "name": "汇文路",
                     "id": 40,
                     "speed": 17.2,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -664,7 +664,7 @@
                     "name": "湖滨二里",
                     "id": 41,
                     "speed": 23.31,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -680,7 +680,7 @@
                     "name": "莲景二路",
                     "id": 42,
                     "speed": 18.5,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -696,7 +696,7 @@
                     "name": "阳台山路",
                     "id": 43,
                     "speed": 13.16,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -712,7 +712,7 @@
                     "name": "湖滨三里",
                     "id": 44,
                     "speed": 22.53,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -728,7 +728,7 @@
                     "name": "公园西路",
                     "id": 45,
                     "speed": 20.97,
-                    "color": "#8D1A24"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -744,7 +744,7 @@
                     "name": "站西路",
                     "id": 46,
                     "speed": 19.72,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -760,7 +760,7 @@
                     "name": "南广场西侧人行天桥",
                     "id": 47,
                     "speed": 28.96,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -776,7 +776,7 @@
                     "name": "浦南一路",
                     "id": 48,
                     "speed": 27.23,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -792,7 +792,7 @@
                     "name": "罗宾森购物广场",
                     "id": 49,
                     "speed": 18.76,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -808,7 +808,7 @@
                     "name": "金榜隧道",
                     "id": 50,
                     "speed": 39.4,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -824,7 +824,7 @@
                     "name": "湖滨四里",
                     "id": 51,
                     "speed": 19.76,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -840,7 +840,7 @@
                     "name": "夏禾路",
                     "id": 52,
                     "speed": 16.87,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -856,7 +856,7 @@
                     "name": "火车站莲坂商圈嘉禾路",
                     "id": 53,
                     "speed": 18.53,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -872,7 +872,7 @@
                     "name": "火车站莲坂商圈禾祥东路",
                     "id": 54,
                     "speed": 18.99,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -888,7 +888,7 @@
                     "name": "火车站莲坂商圈双涵路",
                     "id": 55,
                     "speed": 18.95,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -904,7 +904,7 @@
                     "name": "火车站莲坂商圈莲景三路",
                     "id": 56,
                     "speed": 14.96,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -920,7 +920,7 @@
                     "name": "厦和路",
                     "id": 57,
                     "speed": 17.68,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -936,7 +936,7 @@
                     "name": "东埔路",
                     "id": 58,
                     "speed": 21.66,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -952,7 +952,7 @@
                     "name": "万寿北路",
                     "id": 59,
                     "speed": 14.21,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -968,7 +968,7 @@
                     "name": "万石路",
                     "id": 60,
                     "speed": 36.63,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -984,7 +984,7 @@
                     "name": "湖中路",
                     "id": 61,
                     "speed": 24.21,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1000,7 +1000,7 @@
                     "name": "文屏西路",
                     "id": 62,
                     "speed": 21.25,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1016,7 +1016,7 @@
                     "name": "浦南二路",
                     "id": 63,
                     "speed": 25.12,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1032,7 +1032,7 @@
                     "name": "金榜西路",
                     "id": 64,
                     "speed": 19.37,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1048,7 +1048,7 @@
                     "name": "北门外街",
                     "id": 65,
                     "speed": 17.66,
-                    "color": "#8D1A24"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1064,7 +1064,7 @@
                     "name": "S206(后埭溪路)",
                     "id": 66,
                     "speed": 27.47,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1080,7 +1080,7 @@
                     "name": "站西一路",
                     "id": 67,
                     "speed": 22.43,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1096,7 +1096,7 @@
                     "name": "文屏路立交",
                     "id": 68,
                     "speed": 54.26,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1112,7 +1112,7 @@
                     "name": "金榜南三路",
                     "id": 69,
                     "speed": 29.19,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1128,7 +1128,7 @@
                     "name": "湖滨南路辅路",
                     "id": 70,
                     "speed": 31.19,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1144,7 +1144,7 @@
                     "name": "湖滨东路辅路",
                     "id": 71,
                     "speed": 35.99,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1160,7 +1160,7 @@
                     "name": "湖滨路",
                     "id": 72,
                     "speed": 19.74,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1176,7 +1176,7 @@
                     "name": "金桥飞鹭",
                     "id": 73,
                     "speed": 48.56,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1192,7 +1192,7 @@
                     "name": "莲前西路辅路",
                     "id": 74,
                     "speed": 24.48,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1208,7 +1208,7 @@
                     "name": "浦南三路",
                     "id": 75,
                     "speed": 23.18,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1224,7 +1224,7 @@
                     "name": "湖滨中路辅路",
                     "id": 76,
                     "speed": 34.18,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1240,7 +1240,7 @@
                     "name": "后埭西路",
                     "id": 77,
                     "speed": 13.02,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1256,7 +1256,7 @@
                     "name": "板尾路",
                     "id": 78,
                     "speed": 13.6,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1272,7 +1272,7 @@
                     "name": "嘉禾路莲坂人行天桥",
                     "id": 79,
                     "speed": 28.76,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1288,7 +1288,7 @@
                     "name": "东浦一路",
                     "id": 80,
                     "speed": 35.5,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1304,7 +1304,7 @@
                     "name": "文屏二路",
                     "id": 81,
                     "speed": 26.31,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1320,7 +1320,7 @@
                     "name": "站东二路",
                     "id": 82,
                     "speed": 32.74,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1336,7 +1336,7 @@
                     "name": "金耪路",
                     "id": 83,
                     "speed": 8.02,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1352,7 +1352,7 @@
                     "name": "滨湖南路",
                     "id": 84,
                     "speed": 14.4,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1368,7 +1368,7 @@
                     "name": "S206(厦禾路)",
                     "id": 85,
                     "speed": 26.4,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1384,7 +1384,7 @@
                     "name": "湖滨西里",
                     "id": 86,
                     "speed": 34.18,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1400,7 +1400,7 @@
                     "name": "8号沿街",
                     "id": 87,
                     "speed": 22.91,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1416,7 +1416,7 @@
                     "name": "东浦二路",
                     "id": 88,
                     "speed": 26.96,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1432,7 +1432,7 @@
                     "name": "鑫榜路",
                     "id": 89,
                     "speed": 22.03,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1448,7 +1448,7 @@
                     "name": "环岛西路",
                     "id": 90,
                     "speed": 110.2,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1464,7 +1464,7 @@
                     "name": "鹤庆路",
                     "id": 91,
                     "speed": 6.3,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1480,7 +1480,7 @@
                     "name": "阳台山庄路",
                     "id": 92,
                     "speed": 0.05,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1496,7 +1496,7 @@
                     "name": "东平山路",
                     "id": 93,
                     "speed": 15.0,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1512,7 +1512,7 @@
                     "name": "湖滨南里",
                     "id": 94,
                     "speed": 18.5,
-                    "color": "#EF74A2"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1528,7 +1528,7 @@
                     "name": "湖滨三路",
                     "id": 95,
                     "speed": 27.7,
-                    "color": "#EF74A2"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1544,7 +1544,7 @@
                     "name": "湖滨北路行政中心人行天桥",
                     "id": 96,
                     "speed": 50.8,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1560,7 +1560,7 @@
                     "name": "文远路",
                     "id": 97,
                     "speed": 35,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1576,7 +1576,7 @@
                     "name": "湖滨南路厦门航空人行天桥",
                     "id": 98,
                     "speed": 35,
-                    "color": "#EF74A2"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1592,7 +1592,7 @@
                     "name": "湖滨南路",
                     "id": 99,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1608,7 +1608,7 @@
                     "name": "湖滨北路",
                     "id": 100,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1624,7 +1624,7 @@
                     "name": "禾祥西路",
                     "id": 101,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1640,7 +1640,7 @@
                     "name": "莲岳路",
                     "id": 102,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1656,7 +1656,7 @@
                     "name": "思明南路",
                     "id": 103,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1672,7 +1672,7 @@
                     "name": "斗西路",
                     "id": 104,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1688,7 +1688,7 @@
                     "name": "故宫路",
                     "id": 105,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1704,7 +1704,7 @@
                     "name": "莲前西路",
                     "id": 106,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1720,7 +1720,7 @@
                     "name": "东明路",
                     "id": 107,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1736,7 +1736,7 @@
                     "name": "后滨路",
                     "id": 108,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1752,7 +1752,7 @@
                     "name": "文园路",
                     "id": 109,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1768,7 +1768,7 @@
                     "name": "公园东路",
                     "id": 110,
                     "speed": 37,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1784,7 +1784,7 @@
                     "name": "槟榔路",
                     "id": 111,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1800,7 +1800,7 @@
                     "name": "民族路",
                     "id": 112,
                     "speed": 33,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1816,7 +1816,7 @@
                     "name": "大同路",
                     "id": 113,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1832,7 +1832,7 @@
                     "name": "文屏路",
                     "id": 114,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1848,7 +1848,7 @@
                     "name": "湖滨一里",
                     "id": 115,
                     "speed": 32,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1864,7 +1864,7 @@
                     "name": "莲景路",
                     "id": 116,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1880,7 +1880,7 @@
                     "name": "中兴路",
                     "id": 117,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1896,7 +1896,7 @@
                     "name": "海后路",
                     "id": 118,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1912,7 +1912,7 @@
                     "name": "新华路",
                     "id": 119,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1928,7 +1928,7 @@
                     "name": "溪岸路",
                     "id": 120,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1944,7 +1944,7 @@
                     "name": "湖明桥",
                     "id": 121,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1960,7 +1960,7 @@
                     "name": "蓼花路",
                     "id": 122,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1976,7 +1976,7 @@
                     "name": "虎园路",
                     "id": 123,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -1992,7 +1992,7 @@
                     "name": "思明东路",
                     "id": 124,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2008,7 +2008,7 @@
                     "name": "湖滨南电子城商圈禾祥西路",
                     "id": 125,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2024,7 +2024,7 @@
                     "name": "将军祠路",
                     "id": 126,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2040,7 +2040,7 @@
                     "name": "碧山路",
                     "id": 127,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2056,7 +2056,7 @@
                     "name": "定安路",
                     "id": 128,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2072,7 +2072,7 @@
                     "name": "安平路",
                     "id": 129,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2088,7 +2088,7 @@
                     "name": "文塔路",
                     "id": 130,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2104,7 +2104,7 @@
                     "name": "兴华路",
                     "id": 131,
                     "speed": 28,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2120,7 +2120,7 @@
                     "name": "幸福路",
                     "id": 132,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2136,7 +2136,7 @@
                     "name": "释仔街",
                     "id": 133,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2152,7 +2152,7 @@
                     "name": "文塔里",
                     "id": 134,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2168,7 +2168,7 @@
                     "name": "水仙路",
                     "id": 135,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2184,7 +2184,7 @@
                     "name": "涵光路",
                     "id": 136,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2200,7 +2200,7 @@
                     "name": "忠孝里",
                     "id": 137,
                     "speed": 28,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2216,7 +2216,7 @@
                     "name": "中山路商圈镇邦路",
                     "id": 138,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2232,7 +2232,7 @@
                     "name": "寿彭路",
                     "id": 139,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2248,7 +2248,7 @@
                     "name": "中山路商圈思明东路",
                     "id": 140,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2264,7 +2264,7 @@
                     "name": "同安里",
                     "id": 141,
                     "speed": 29,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2280,7 +2280,7 @@
                     "name": "寿山路",
                     "id": 142,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2296,7 +2296,7 @@
                     "name": "盐溪街",
                     "id": 143,
                     "speed": 24,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2312,7 +2312,7 @@
                     "name": "局口街",
                     "id": 144,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2328,7 +2328,7 @@
                     "name": "映碧南路",
                     "id": 145,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2344,7 +2344,7 @@
                     "name": "苏厝街",
                     "id": 146,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2360,7 +2360,7 @@
                     "name": "靖山路",
                     "id": 147,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2376,7 +2376,7 @@
                     "name": "禾太街",
                     "id": 148,
                     "speed": 36,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2392,7 +2392,7 @@
                     "name": "育青路",
                     "id": 149,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2408,7 +2408,7 @@
                     "name": "同文路",
                     "id": 150,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2424,7 +2424,7 @@
                     "name": "华新路",
                     "id": 151,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2440,7 +2440,7 @@
                     "name": "四仙街",
                     "id": 152,
                     "speed": 39,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2456,7 +2456,7 @@
                     "name": "禾祥路",
                     "id": 153,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2472,7 +2472,7 @@
                     "name": "上古街",
                     "id": 154,
                     "speed": 8,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2488,7 +2488,7 @@
                     "name": "莲花南北路商圈湖滨北路",
                     "id": 155,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2504,7 +2504,7 @@
                     "name": "菜妈街",
                     "id": 156,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2520,7 +2520,7 @@
                     "name": "石顶街",
                     "id": 157,
                     "speed": 24,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2536,7 +2536,7 @@
                     "name": "先锋营街",
                     "id": 158,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2552,7 +2552,7 @@
                     "name": "古城东路",
                     "id": 159,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2568,7 +2568,7 @@
                     "name": "文塔西路",
                     "id": 160,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2584,7 +2584,7 @@
                     "name": "福津大街",
                     "id": 161,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2600,7 +2600,7 @@
                     "name": "玄妙巷",
                     "id": 162,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2616,7 +2616,7 @@
                     "name": "白鹿路",
                     "id": 163,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2632,7 +2632,7 @@
                     "name": "湖中滨路",
                     "id": 164,
                     "speed": 30,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2648,7 +2648,7 @@
                     "name": "励志路",
                     "id": 165,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2664,7 +2664,7 @@
                     "name": "养元宫巷",
                     "id": 166,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2680,7 +2680,7 @@
                     "name": "东明路槟榔西里",
                     "id": 167,
                     "speed": 30,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2696,7 +2696,7 @@
                     "name": "石泉路",
                     "id": 168,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2712,7 +2712,7 @@
                     "name": "青石巷",
                     "id": 169,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2728,7 +2728,7 @@
                     "name": "坑内路",
                     "id": 170,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2744,7 +2744,7 @@
                     "name": "北四环东路",
                     "id": 171,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2760,7 +2760,7 @@
                     "name": "环湖步道",
                     "id": 172,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2776,7 +2776,7 @@
                     "name": "湖浜中路",
                     "id": 173,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2792,7 +2792,7 @@
                     "name": "湖滨中路桥",
                     "id": 174,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2808,7 +2808,7 @@
                     "name": "嘉禾路",
                     "id": 175,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2824,7 +2824,7 @@
                     "name": "仙岳路",
                     "id": 176,
                     "speed": 34,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2840,7 +2840,7 @@
                     "name": "体育路",
                     "id": 177,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2856,7 +2856,7 @@
                     "name": "鹭江道",
                     "id": 178,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2872,7 +2872,7 @@
                     "name": "白鹭洲路",
                     "id": 179,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2888,7 +2888,7 @@
                     "name": "湖滨西路",
                     "id": 180,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2904,7 +2904,7 @@
                     "name": "松柏路",
                     "id": 181,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2920,7 +2920,7 @@
                     "name": "莲岳里",
                     "id": 182,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2936,7 +2936,7 @@
                     "name": "豆仔尾路",
                     "id": 183,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2952,7 +2952,7 @@
                     "name": "屿后南里",
                     "id": 184,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2968,7 +2968,7 @@
                     "name": "禾祥西商圈厦禾路",
                     "id": 185,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -2984,7 +2984,7 @@
                     "name": "角滨路",
                     "id": 186,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3000,7 +3000,7 @@
                     "name": "育秀东路",
                     "id": 187,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3016,7 +3016,7 @@
                     "name": "思明北路",
                     "id": 188,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3032,7 +3032,7 @@
                     "name": "后江埭路",
                     "id": 189,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3048,7 +3048,7 @@
                     "name": "天湖路",
                     "id": 190,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3064,7 +3064,7 @@
                     "name": "龙山南路",
                     "id": 191,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3080,7 +3080,7 @@
                     "name": "鹭江路",
                     "id": 192,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3096,7 +3096,7 @@
                     "name": "禾祥西二路",
                     "id": 193,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3112,7 +3112,7 @@
                     "name": "莲花南路",
                     "id": 194,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3128,7 +3128,7 @@
                     "name": "白鹭洲东路",
                     "id": 195,
                     "speed": 31,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3144,7 +3144,7 @@
                     "name": "湖滨南电子城商圈湖滨南路",
                     "id": 196,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3160,7 +3160,7 @@
                     "name": "松岳里",
                     "id": 197,
                     "speed": 42,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3176,7 +3176,7 @@
                     "name": "长青北里",
                     "id": 198,
                     "speed": 30,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3192,7 +3192,7 @@
                     "name": "禾祥西商圈禾祥西路",
                     "id": 199,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3208,7 +3208,7 @@
                     "name": "湖滨西路辅路",
                     "id": 200,
                     "speed": 41,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3224,7 +3224,7 @@
                     "name": "美仁路",
                     "id": 201,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3240,7 +3240,7 @@
                     "name": "白鹭洲路辅路",
                     "id": 202,
                     "speed": 40,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3256,7 +3256,7 @@
                     "name": "美湖路",
                     "id": 203,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3272,7 +3272,7 @@
                     "name": "开元路",
                     "id": 204,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3288,7 +3288,7 @@
                     "name": "共和路",
                     "id": 205,
                     "speed": 42,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3304,7 +3304,7 @@
                     "name": "白鹤路",
                     "id": 206,
                     "speed": 30,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3320,7 +3320,7 @@
                     "name": "屿后北里",
                     "id": 207,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3336,7 +3336,7 @@
                     "name": "角尾路",
                     "id": 208,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3352,7 +3352,7 @@
                     "name": "开禾路",
                     "id": 209,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3368,7 +3368,7 @@
                     "name": "中山路商圈大同路",
                     "id": 210,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3384,7 +3384,7 @@
                     "name": "故宫东里",
                     "id": 211,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3400,7 +3400,7 @@
                     "name": "西堤南里",
                     "id": 212,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3416,7 +3416,7 @@
                     "name": "蜂巢山路",
                     "id": 213,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3432,7 +3432,7 @@
                     "name": "东岳二路",
                     "id": 214,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3448,7 +3448,7 @@
                     "name": "升平路",
                     "id": 215,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3464,7 +3464,7 @@
                     "name": "沙坡尾",
                     "id": 216,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3480,7 +3480,7 @@
                     "name": "霞溪路",
                     "id": 217,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3496,7 +3496,7 @@
                     "name": "溪岸街",
                     "id": 218,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3512,7 +3512,7 @@
                     "name": "东岳路",
                     "id": 219,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3528,7 +3528,7 @@
                     "name": "仙岳里",
                     "id": 220,
                     "speed": 46,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3544,7 +3544,7 @@
                     "name": "中山路商圈思明北路",
                     "id": 221,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3560,7 +3560,7 @@
                     "name": "百家村路",
                     "id": 222,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3576,7 +3576,7 @@
                     "name": "禾祥西商圈故宫路",
                     "id": 223,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3592,7 +3592,7 @@
                     "name": "深田路",
                     "id": 224,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3608,7 +3608,7 @@
                     "name": "盈翠里",
                     "id": 225,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3624,7 +3624,7 @@
                     "name": "禾祥西商圈斗西路",
                     "id": 226,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3640,7 +3640,7 @@
                     "name": "信义里",
                     "id": 227,
                     "speed": 37,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3656,7 +3656,7 @@
                     "name": "镇邦路",
                     "id": 228,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3672,7 +3672,7 @@
                     "name": "中山路商圈思明南路",
                     "id": 229,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3688,7 +3688,7 @@
                     "name": "演武大桥",
                     "id": 230,
                     "speed": 49,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3704,7 +3704,7 @@
                     "name": "白鹤山路",
                     "id": 231,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3720,7 +3720,7 @@
                     "name": "育秀中路",
                     "id": 232,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3736,7 +3736,7 @@
                     "name": "思明西路",
                     "id": 233,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3752,7 +3752,7 @@
                     "name": "泰兴路",
                     "id": 234,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3768,7 +3768,7 @@
                     "name": "人和路",
                     "id": 235,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3784,7 +3784,7 @@
                     "name": "公园北路",
                     "id": 236,
                     "speed": 30,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3800,7 +3800,7 @@
                     "name": "汇文西路",
                     "id": 237,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3816,7 +3816,7 @@
                     "name": "横竹路",
                     "id": 238,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3832,7 +3832,7 @@
                     "name": "湖滨南电子城商圈天湖路",
                     "id": 239,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3848,7 +3848,7 @@
                     "name": "祥滨路",
                     "id": 240,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3864,7 +3864,7 @@
                     "name": "顶澳仔",
                     "id": 241,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3880,7 +3880,7 @@
                     "name": "大中路",
                     "id": 242,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3896,7 +3896,7 @@
                     "name": "美仁里",
                     "id": 243,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3912,7 +3912,7 @@
                     "name": "古城西路",
                     "id": 244,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3928,7 +3928,7 @@
                     "name": "西林路",
                     "id": 245,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3944,7 +3944,7 @@
                     "name": "尚武路",
                     "id": 246,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3960,7 +3960,7 @@
                     "name": "故宫东路",
                     "id": 247,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3976,7 +3976,7 @@
                     "name": "妙香路",
                     "id": 248,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -3992,7 +3992,7 @@
                     "name": "西林东里",
                     "id": 249,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4008,7 +4008,7 @@
                     "name": "中山路商圈霞溪路",
                     "id": 250,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4024,7 +4024,7 @@
                     "name": "光荣路",
                     "id": 251,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4040,7 +4040,7 @@
                     "name": "盘龙路",
                     "id": 252,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4056,7 +4056,7 @@
                     "name": "莲花南北路商圈莲花南路",
                     "id": 253,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4072,7 +4072,7 @@
                     "name": "湖滨南电子城商圈美湖路",
                     "id": 254,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4088,7 +4088,7 @@
                     "name": "中山路商圈古城西路",
                     "id": 255,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4104,7 +4104,7 @@
                     "name": "莲花南北路商圈莲岳路",
                     "id": 256,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4120,7 +4120,7 @@
                     "name": "大元路",
                     "id": 257,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4136,7 +4136,7 @@
                     "name": "中山路商圈升平路",
                     "id": 258,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4152,7 +4152,7 @@
                     "name": "莲滨里",
                     "id": 259,
                     "speed": 44,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4168,7 +4168,7 @@
                     "name": "宏泰路",
                     "id": 260,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4184,7 +4184,7 @@
                     "name": "禾祥西商圈湖滨西路",
                     "id": 261,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4200,7 +4200,7 @@
                     "name": "太平路",
                     "id": 262,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4216,7 +4216,7 @@
                     "name": "鱼行口街",
                     "id": 263,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4232,7 +4232,7 @@
                     "name": "中山路商圈思明西路",
                     "id": 264,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4248,7 +4248,7 @@
                     "name": "图强路",
                     "id": 265,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4264,7 +4264,7 @@
                     "name": "金新街",
                     "id": 266,
                     "speed": 48,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4280,7 +4280,7 @@
                     "name": "合群路",
                     "id": 267,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4296,7 +4296,7 @@
                     "name": "后滨东路",
                     "id": 268,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4312,7 +4312,7 @@
                     "name": "泰山路",
                     "id": 269,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4328,7 +4328,7 @@
                     "name": "中山路商圈新华路",
                     "id": 270,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4344,7 +4344,7 @@
                     "name": "永福宫巷",
                     "id": 271,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4360,7 +4360,7 @@
                     "name": "福茂宫街",
                     "id": 272,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4376,7 +4376,7 @@
                     "name": "磁安路",
                     "id": 273,
                     "speed": 33,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4392,7 +4392,7 @@
                     "name": "桥亭街",
                     "id": 274,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4408,7 +4408,7 @@
                     "name": "磁巷",
                     "id": 275,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4424,7 +4424,7 @@
                     "name": "西林西里",
                     "id": 276,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4440,7 +4440,7 @@
                     "name": "美头山路",
                     "id": 277,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4456,7 +4456,7 @@
                     "name": "禾祥西商圈白鹭洲路",
                     "id": 278,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4472,7 +4472,7 @@
                     "name": "自强路",
                     "id": 279,
                     "speed": 10,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4488,7 +4488,7 @@
                     "name": "塔厝路",
                     "id": 280,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4504,7 +4504,7 @@
                     "name": "南华路",
                     "id": 281,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4520,7 +4520,7 @@
                     "name": "厦港新村",
                     "id": 282,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4536,7 +4536,7 @@
                     "name": "南义和街",
                     "id": 283,
                     "speed": 45,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4552,7 +4552,7 @@
                     "name": "打索埕巷",
                     "id": 284,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4568,7 +4568,7 @@
                     "name": "中山路商圈鹭江道",
                     "id": 285,
                     "speed": 32,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4584,7 +4584,7 @@
                     "name": "中山路商圈海后路",
                     "id": 286,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4600,7 +4600,7 @@
                     "name": "思东横巷",
                     "id": 287,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4616,7 +4616,7 @@
                     "name": "碧石路",
                     "id": 288,
                     "speed": 19,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4632,7 +4632,7 @@
                     "name": "南打棕街",
                     "id": 289,
                     "speed": 49,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4648,7 +4648,7 @@
                     "name": "市府大道",
                     "id": 290,
                     "speed": 32,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4664,7 +4664,7 @@
                     "name": "顶澳仔路",
                     "id": 291,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4680,7 +4680,7 @@
                     "name": "常明路",
                     "id": 292,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4696,7 +4696,7 @@
                     "name": "后河路",
                     "id": 293,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4712,7 +4712,7 @@
                     "name": "海岸街",
                     "id": 294,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4728,7 +4728,7 @@
                     "name": "鹤寿路",
                     "id": 295,
                     "speed": 38,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4744,7 +4744,7 @@
                     "name": "民治路",
                     "id": 296,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4760,7 +4760,7 @@
                     "name": "山仔顶巷",
                     "id": 297,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4776,7 +4776,7 @@
                     "name": "湖滨南电子城商圈白鹭洲路",
                     "id": 298,
                     "speed": 24,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4792,7 +4792,7 @@
                     "name": "外清巷",
                     "id": 299,
                     "speed": 35,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4808,7 +4808,7 @@
                     "name": "巡司顶巷",
                     "id": 300,
                     "speed": 54,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4824,7 +4824,7 @@
                     "name": "光彩街",
                     "id": 301,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4840,7 +4840,7 @@
                     "name": "双莲池街",
                     "id": 302,
                     "speed": 25,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4856,7 +4856,7 @@
                     "name": "金星路",
                     "id": 303,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4872,7 +4872,7 @@
                     "name": "第七市场",
                     "id": 304,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4888,7 +4888,7 @@
                     "name": "电台山路",
                     "id": 305,
                     "speed": 24,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4904,7 +4904,7 @@
                     "name": "公园东路深田路口地下通道",
                     "id": 306,
                     "speed": 40,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4920,7 +4920,7 @@
                     "name": "和衷路",
                     "id": 307,
                     "speed": 34,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4936,7 +4936,7 @@
                     "name": "新路街",
                     "id": 308,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4952,7 +4952,7 @@
                     "name": "后岸巷",
                     "id": 309,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4968,7 +4968,7 @@
                     "name": "墙顶巷",
                     "id": 310,
                     "speed": 24,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -4984,7 +4984,7 @@
                     "name": "局口横巷",
                     "id": 311,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5000,7 +5000,7 @@
                     "name": "海岸后街",
                     "id": 312,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5016,7 +5016,7 @@
                     "name": "后江棣路",
                     "id": 313,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5032,7 +5032,7 @@
                     "name": "内武庙街",
                     "id": 314,
                     "speed": 28,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5048,7 +5048,7 @@
                     "name": "市仔街",
                     "id": 315,
                     "speed": 42,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5064,7 +5064,7 @@
                     "name": "钓鱼路",
                     "id": 316,
                     "speed": 26,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5080,7 +5080,7 @@
                     "name": "映碧北路",
                     "id": 317,
                     "speed": 38,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5096,7 +5096,7 @@
                     "name": "虎溪岩路",
                     "id": 318,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5112,7 +5112,7 @@
                     "name": "斗星路",
                     "id": 319,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5128,7 +5128,7 @@
                     "name": "太安街",
                     "id": 320,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5144,7 +5144,7 @@
                     "name": "西山路",
                     "id": 321,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5160,7 +5160,7 @@
                     "name": "仔墘街",
                     "id": 322,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5176,7 +5176,7 @@
                     "name": "二王街",
                     "id": 323,
                     "speed": 32,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5192,7 +5192,7 @@
                     "name": "禾祥西街",
                     "id": 324,
                     "speed": 13,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5208,7 +5208,7 @@
                     "name": "禾祥西商圈角滨路",
                     "id": 325,
                     "speed": 0,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5224,7 +5224,7 @@
                     "name": "局口西街",
                     "id": 326,
                     "speed": 18,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5240,7 +5240,7 @@
                     "name": "南桥巷",
                     "id": 327,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5256,7 +5256,7 @@
                     "name": "吴厝巷",
                     "id": 328,
                     "speed": 23,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5272,7 +5272,7 @@
                     "name": "蓬前西路",
                     "id": 329,
                     "speed": 29,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5288,7 +5288,7 @@
                     "name": "太平妈街",
                     "id": 330,
                     "speed": 22,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5304,7 +5304,7 @@
                     "name": "卧龙西路",
                     "id": 331,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5320,7 +5320,7 @@
                     "name": "中山路商圈大元路",
                     "id": 332,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5336,7 +5336,7 @@
                     "name": "林业路",
                     "id": 333,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5352,7 +5352,7 @@
                     "name": "水牛埕巷",
                     "id": 334,
                     "speed": 33,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5368,7 +5368,7 @@
                     "name": "西三街",
                     "id": 335,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5384,7 +5384,7 @@
                     "name": "西林社",
                     "id": 336,
                     "speed": 29,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5400,7 +5400,7 @@
                     "name": "小走马路",
                     "id": 337,
                     "speed": 39,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5416,7 +5416,7 @@
                     "name": "白鸽路",
                     "id": 338,
                     "speed": 10,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5432,7 +5432,7 @@
                     "name": "右江埭路",
                     "id": 339,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5448,7 +5448,7 @@
                     "name": "虎圆路",
                     "id": 340,
                     "speed": 11,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5464,7 +5464,7 @@
                     "name": "料船头街",
                     "id": 341,
                     "speed": 20,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5480,7 +5480,7 @@
                     "name": "中山路步行街",
                     "id": 342,
                     "speed": 14,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5496,7 +5496,7 @@
                     "name": "钓仔路",
                     "id": 343,
                     "speed": 17,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5512,7 +5512,7 @@
                     "name": "惠通巷",
                     "id": 344,
                     "speed": 16,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5528,7 +5528,7 @@
                     "name": "励志里",
                     "id": 345,
                     "speed": 21,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5544,7 +5544,7 @@
                     "name": "炫妙巷",
                     "id": 346,
                     "speed": 71,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5560,7 +5560,7 @@
                     "name": "万寿街",
                     "id": 347,
                     "speed": 51,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5576,7 +5576,7 @@
                     "name": "顶沃仔路",
                     "id": 348,
                     "speed": 27,
-                    "color": "#808080"
+                    "color": "#F78812"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5592,7 +5592,7 @@
                     "name": "地下通道",
                     "id": 349,
                     "speed": 12,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5608,7 +5608,7 @@
                     "name": "西林西路",
                     "id": 350,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5624,7 +5624,7 @@
                     "name": "莲前西路(第五中学)人行天桥",
                     "id": 351,
                     "speed": 48,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5640,7 +5640,7 @@
                     "name": "西林西二路",
                     "id": 352,
                     "speed": 15,
-                    "color": "#808080"
+                    "color": "#E02401"
                 },
                 "geometry": {
                     "type": "Point",
@@ -5656,7 +5656,7 @@
                     "name": "莲岳路辅路",
                     "id": 353,
                     "speed": 38,
-                    "color": "#808080"
+                    "color": "#6ECB63"
                 },
                 "geometry": {
                     "type": "Point",

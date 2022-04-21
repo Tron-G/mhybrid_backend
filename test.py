@@ -1,6 +1,8 @@
 # -*- coding: UTF-8 -*-
 from module.fileProcessing import FileProcessing
 import copy
+from module import *
+import math
 
 
 def CorrectionCoordErr(coord_data):
@@ -98,32 +100,6 @@ if __name__ == '__main__':
     #     res.append(temp)
     # fp.save_file(res, "link_geo")
 
-    # result = {
-    #     "type": "FeatureCollection",
-    #     "features": []
-    # }
-    # tmp = {
-    #     "type": "Feature",
-    #     "properties": {
-    #       "link_width": ""
-    #     },
-    #     "geometry": {
-    #       "type": "LineString",
-    #       "coordinates": []
-    #     }
-    #   }
-    # data = fp.load_data("link_geo")
-    # for each in data:
-    #     link_width = each[0]
-    #     start_point = CorrectionCoordErr(each[1])
-    #     end_point = CorrectionCoordErr(each[2])
-    #
-    #     t = copy.deepcopy(tmp)
-    #     t["properties"]["link_width"] = link_width
-    #     t["geometry"]["coordinates"] = [start_point, end_point]
-    #     result["features"].append(t)
-    # fp.save_file(result, "link_geo")
-
     # create community graph
     # data = fp.load_data("./static/community_data/resorted_community")
     # node_data = data["node"]
@@ -169,19 +145,13 @@ if __name__ == '__main__':
     # community_geo = {"node": node_result, "link": result}
     # fp.save_file(community_geo, "community_geo")
 
-    # data = fp.load_data("./static/community_data/community_geo")
-    # node = data["node"]
-    # speed_color = ["#E02401", "#F78812", "#FFE1AF", "#B1E693", "#6ECB63"]
-    #
-    # for each in node["features"]:
-    #     speed = each["properties"]["speed"]
-    #     if speed <= 20:
-    #         each["properties"]["color"] = speed_color[0]
-    #     elif 20 < speed < 30:
-    #         each["properties"]["color"] = speed_color[1]
-    #     else:
-    #         each["properties"]["color"] = speed_color[4]
-    #
-    # fp.save_file(data, "./static/community_data/community_geo1")
+    data = {"origin_site": "福津大街", "destination_site": "中山路步行街"}
+    ga = MultiRoute.MultiRoute("./static/GA_input_data")
+    route = ga.calc_multi_route(data)
+    print(route["route_attr"])
+
+
 
     pass
+
+

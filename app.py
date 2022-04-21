@@ -23,6 +23,7 @@ def get_on_data():
     return jsonify(data)
 
 
+
 @app.route('/get_off_data', methods=['GET', 'POST'])
 @cross_origin()
 def get_off_data():

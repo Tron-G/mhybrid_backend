@@ -23,7 +23,6 @@ def get_on_data():
     return jsonify(data)
 
 
-
 @app.route('/get_off_data', methods=['GET', 'POST'])
 @cross_origin()
 def get_off_data():
@@ -48,6 +47,15 @@ def get_cluster_network():
     """社区聚类网络数据"""
     net = TrafficNetwork.TrafficNetwork("./static/network_data")
     data = net.clustered_network()
+    return jsonify(data)
+
+
+@app.route('/get_carbon_data', methods=['GET', 'POST'])
+@cross_origin()
+def get_carbon_data():
+    """街道碳排放数据"""
+    net = TrafficNetwork.TrafficNetwork("./static/network_data")
+    data = net.carbon_data()
     return jsonify(data)
 
 

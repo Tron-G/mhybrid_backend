@@ -53,8 +53,8 @@ class MultiRoute:
         if len(route) > self.MAX_ROUTE:
             route = route[:self.MAX_ROUTE]
 
-        route_data = self.get_route_geo(route)
         route_attr = self.calc_attr(route)
+        route_data = self.get_route_geo(route, route_attr)
 
         result = {"route": route_data, "route_attr": route_attr, "all_history_Y": ga.all_history_Y}
         return result
@@ -67,15 +67,16 @@ class MultiRoute:
                 return each["id"]
         return -1
 
-    def get_route_geo(self, route):
+    def get_route_geo(self, route, route_attr):
         """将路线节点数组转换成geo类型的数据"""
 
         route_geo_data = []
-        for each in route:
+
+        for i in range(0, len(route)):
             result = {}
             # 将路线节点数组转换成节点geo数据
-            route_lis = each["route"]
-            route_mode = each["transport_mode"]
+            route_lis = route[i]["route"]
+            route_mode = route[i]["transport_mode"]
             route_coord_lis = []
             node_tmp = []
             for item in route_lis:
@@ -95,21 +96,24 @@ class MultiRoute:
 
             # 将路线节点数组转换成边geo数据，加入边的出行模式属性
             link_tmp = []
-            for i in range(1, len(route_lis)):
-                transport_mode = "car" if route_mode[i - 1] == 1 else "bike"
+            for j in range(1, len(route_lis)):
+                transport_mode = "car" if route_mode[j - 1] == 1 else "bike"
+                carbon_percent = route_attr[i]["route_carbon_list"][j-1]/max(route_attr[i]["route_carbon_list"])
+                heat_color = self.get_color_by_percentage(carbon_percent)
                 link_tmp.append({
                     "properties": {
-                        "transport_mode": transport_mode
+                        "transport_mode": transport_mode,
+                        "carbon_heat_color": heat_color,
                     },
                     "coordinates": [
-                        route_coord_lis[i - 1],
-                        route_coord_lis[i]
+                        route_coord_lis[j - 1],
+                        route_coord_lis[j]
                     ]
                 })
 
             link_geo = self.get_geo_format(link_tmp, "link")
 
-            result["cost_time"] = each["cost_time"]
+            result["cost_time"] = route[i]["cost_time"]
             result["node"] = node_geo
             result["link"] = link_geo
             route_geo_data.append(result)
@@ -218,7 +222,7 @@ class MultiRoute:
                         delta = 1
                     else:
                         delta = 0
-                    carbon = 0.002322 * (0.3 * route_time[i-1] + 0.028 * route_distance[i-1] + 0.056*delta*(route_speed[i] ** 2 - route_speed[i - 1] ** 2))
+                    carbon = 0.002633 * (0.3 * route_time[i-1] + 0.028 * route_distance[i-1] + 0.056*delta*(route_speed[i] ** 2 - route_speed[i - 1] ** 2))
                     route_carbon_list.append(carbon)
 
             tmp = {
@@ -233,3 +237,21 @@ class MultiRoute:
             index += 1
 
         return route_attr
+
+    def get_color_by_percentage(self, value):
+        """热力图颜色转换，根据0-1返回对应颜色"""
+        value *= 100
+        r = g = b = 0
+        if value <= 50:
+            g = 210
+            r = int((value / 50) * 250)
+        else:
+            r = 230
+            g = int(((100 - value) / 50) * 180)
+        t1 = hex(r)[2:]
+        t1 = ("0" + t1) if len(t1) == 1 else t1
+        t2 = hex(g)[2:]
+        t2 = ("0" + t2) if len(t2) == 1 else t2
+        t3 = hex(b)[2:]
+        t3 = ("0" + t3) if len(t3) == 1 else t3
+        return "#" + t1 + t2 + t3

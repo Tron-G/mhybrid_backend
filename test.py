@@ -148,7 +148,7 @@ if __name__ == '__main__':
     data = {"origin_site": "福津大街", "destination_site": "中山路步行街"}
     ga = MultiRoute.MultiRoute("./static/GA_input_data")
     route = ga.calc_multi_route(data)
-    print(route["route_attr"])
+    print(route)
 
 
 

@@ -16,5 +16,12 @@ class TrafficNetwork:
 
     def community_network(self):
         """街道级别混合网络的geo数据"""
-        return self.fp.load_data("community_geo")
+        net = self.fp.load_data("community_geo")
+        node = self.fp.load_data("traffic_flow_echarts")
+        station = self.fp.load_data("bike_station_geo")
+        data = {"network": net, "traffic_flow": node, "station": station}
+        return data
 
+    def carbon_data(self):
+        data = self.fp.load_data("carbon_heat")
+        return data

@@ -1,0 +1,5589 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "家家海景东站",
+                "id": 256,
+                "station_num": "109800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17793999999999,
+                    24.475235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第一码头2",
+                "id": 1,
+                "station_num": "132300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.066447,
+                    24.462738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "明发新城南站",
+                "id": 257,
+                "station_num": "109700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.174791,
+                    24.47124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔小学南站",
+                "id": 258,
+                "station_num": "109600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17021,
+                    24.472942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "思明武装部北",
+                "id": 3,
+                "station_num": "105500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.151112,
+                    24.474213000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔BRT总站",
+                "id": 259,
+                "station_num": "109500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16734,
+                    24.474220000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东浦花园站",
+                "id": 4,
+                "station_num": "902900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.119153,
+                    24.475622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "明发新城北站",
+                "id": 260,
+                "station_num": "109400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17498499999999,
+                    24.471457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东坪山庄站",
+                "id": 5,
+                "station_num": "902800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.117294,
+                    24.470721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔小学北站",
+                "id": 261,
+                "station_num": "109300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17115299999999,
+                    24.473024000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金榜公园西门站",
+                "id": 6,
+                "station_num": "902700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10421099999999,
+                    24.466495000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "国贸新城站",
+                "id": 262,
+                "station_num": "109200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.167538,
+                    24.474619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汇丰家园站",
+                "id": 7,
+                "station_num": "902600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1026,
+                    24.467761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭兜佳园西站",
+                "id": 263,
+                "station_num": "109100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16926199999999,
+                    24.488529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万寿山铁路小区站",
+                "id": 8,
+                "station_num": "902500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.099925,
+                    24.464333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园西门站西",
+                "id": 264,
+                "station_num": "109000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17010699999999,
+                    24.491929000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三航公寓西门站",
+                "id": 9,
+                "station_num": "902400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.090831,
+                    24.518326000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪塘西站",
+                "id": 265,
+                "station_num": "108900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16986399999999,
+                    24.49042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "古龙公寓南门站",
+                "id": 10,
+                "station_num": "902300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09154799999999,
+                    24.516715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达广场对面",
+                "id": 266,
+                "station_num": "108800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.171517,
+                    24.506199000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "邮轮城一期站",
+                "id": 11,
+                "station_num": "902200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.071446,
+                    24.48254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "下湖社西站",
+                "id": 267,
+                "station_num": "108700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17192999999999,
+                    24.503988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "物质结构研究所站",
+                "id": 12,
+                "station_num": "902100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.074722,
+                    24.486671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高林社区站",
+                "id": 268,
+                "station_num": "108600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.166325,
+                    24.514501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖里街道办站",
+                "id": 13,
+                "station_num": "902000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10037399999999,
+                    24.514369000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "紫金家园东站",
+                "id": 269,
+                "station_num": "108500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15999599999999,
+                    24.523734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖里公安局西门站",
+                "id": 14,
+                "station_num": "901900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14022,
+                    24.519641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔中路美晶酒店门口",
+                "id": 270,
+                "station_num": "108400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.164311,
+                    24.48016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "枋湖南路御芝苑门口",
+                "id": 15,
+                "station_num": "901800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14122499999999,
+                    24.512949000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "穆厝村口大榕树对面工业路口北侧",
+                "id": 271,
+                "station_num": "108300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.154647,
+                    24.511085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "枋湖东二路妇幼保健医院对面",
+                "id": 16,
+                "station_num": "901700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14582999999999,
+                    24.514298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "穆厝村口大榕树南侧",
+                "id": 272,
+                "station_num": "108200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.155419,
+                    24.510921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅西二路站",
+                "id": 17,
+                "station_num": "901600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15551699999999,
+                    24.519401000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金山地下通道西侧出口",
+                "id": 273,
+                "station_num": "108100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.155159,
+                    24.507296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五缘湾道国贸天琴湾小区门口",
+                "id": 18,
+                "station_num": "901500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16672799999999,
+                    24.524316000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金山地下通道东侧出口",
+                "id": 274,
+                "station_num": "108000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.155491,
+                    24.507526000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅西一路厦门五缘湾第二实验学校斜对面",
+                "id": 19,
+                "station_num": "901400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15813999999999,
+                    24.523954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金山BRT站(西)",
+                "id": 275,
+                "station_num": "107900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15445799999999,
+                    24.503330000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "围里路往云顶北路东侧",
+                "id": 20,
+                "station_num": "901300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.146947,
+                    24.531334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金山BRT站(东)",
+                "id": 276,
+                "station_num": "107800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15485799999999,
+                    24.503079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "板上路与岐山北路交叉路口",
+                "id": 21,
+                "station_num": "901200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.137802,
+                    24.531433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后坑天桥站(西)",
+                "id": 277,
+                "station_num": "107700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.151997,
+                    24.497876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五华产业园门口",
+                "id": 22,
+                "station_num": "901100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15432799999999,
+                    24.530198000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后坑人行天桥东侧出口（候卿路路口）",
+                "id": 278,
+                "station_num": "107600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15258399999999,
+                    24.49795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "墩岭二里9-11（移动管理箱旁）",
+                "id": 23,
+                "station_num": "901000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15477999999999,
+                    24.537448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后坑幼儿园边上",
+                "id": 279,
+                "station_num": "107500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14991099999999,
+                    24.495656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "惠灵顿路五缘幼儿园旁",
+                "id": 24,
+                "station_num": "900900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15776299999999,
+                    24.542066000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "市政大厦（西）",
+                "id": 280,
+                "station_num": "107400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.149576,
+                    24.493207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "古龙居住公园站",
+                "id": 25,
+                "station_num": "900800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14864299999999,
+                    24.52297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "市政大厦对面（靠湖侧）",
+                "id": 281,
+                "station_num": "107300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.149875,
+                    24.493231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "源昌鑫海湾站",
+                "id": 26,
+                "station_num": "900700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.154895,
+                    24.544156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡塘BRT东站",
+                "id": 282,
+                "station_num": "107200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.149136,
+                    24.490819000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "翠湖庄园站",
+                "id": 27,
+                "station_num": "900600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13329999999999,
+                    24.532175000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡塘花卉市场",
+                "id": 283,
+                "station_num": "107100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.149311,
+                    24.490235000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "禹州城上城站",
+                "id": 28,
+                "station_num": "900500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.141268,
+                    24.510888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠仑公园西",
+                "id": 284,
+                "station_num": "107000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14764699999999,
+                    24.487074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "书香佳缘二期站",
+                "id": 29,
+                "station_num": "900400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.149379,
+                    24.513913000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠仑公园",
+                "id": 285,
+                "station_num": "106900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.148215,
+                    24.486388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "碧湖嘉园站",
+                "id": 30,
+                "station_num": "900300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14663999999999,
+                    24.514653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "加州建材家居广场",
+                "id": 286,
+                "station_num": "106800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.147595,
+                    24.483309000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "禾山街道办站",
+                "id": 31,
+                "station_num": "900200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.146794,
+                    24.524552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪山柄安置小区",
+                "id": 287,
+                "station_num": "106700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.147995,
+                    24.483597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖里区政府站",
+                "id": 32,
+                "station_num": "900100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14107,
+                    24.515314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉州建材城地下通道西侧出口边上",
+                "id": 288,
+                "station_num": "106600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.147486,
+                    24.48076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲坂国贸北站",
+                "id": 33,
+                "station_num": "132200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11514899999999,
+                    24.477426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉州建材城地下通道东侧出口边上",
+                "id": 289,
+                "station_num": "106500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14800699999999,
+                    24.480826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "假日商城站",
+                "id": 34,
+                "station_num": "132100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11444499999999,
+                    24.474951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "佰翔软件园酒店站",
+                "id": 290,
+                "station_num": "106400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17052,
+                    24.49363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "梧村街道站",
+                "id": 35,
+                "station_num": "132000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.113958,
+                    24.474446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金林湾花园东站",
+                "id": 291,
+                "station_num": "106300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.170341,
+                    24.509601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗宾森广场站",
+                "id": 36,
+                "station_num": "131900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10950799999999,
+                    24.472046000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金林湾花园西站",
+                "id": 292,
+                "station_num": "106200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16835499999999,
+                    24.511755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "世贸商城站",
+                "id": 37,
+                "station_num": "131800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.108925,
+                    24.47105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高林社区东站",
+                "id": 293,
+                "station_num": "106100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.166933,
+                    24.514508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "文灶南站",
+                "id": 38,
+                "station_num": "131700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.106729,
+                    24.470426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奥网城站",
+                "id": 294,
+                "station_num": "106000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.185801,
+                    24.480879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔污水厂站",
+                "id": 39,
+                "station_num": "131600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.171112,
+                    24.469206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海峡国际社区北站",
+                "id": 295,
+                "station_num": "105900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.183016,
+                    24.481833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园54号楼站",
+                "id": 40,
+                "station_num": "131500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.180849,
+                    24.486044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭兜二里站",
+                "id": 296,
+                "station_num": "105800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17444599999999,
+                    24.482786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园2号楼站",
+                "id": 41,
+                "station_num": "131400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.172782,
+                    24.491717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "光电大楼站",
+                "id": 297,
+                "station_num": "105700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17388899999999,
+                    24.482901000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园63号楼站",
+                "id": 42,
+                "station_num": "131300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.181388,
+                    24.489727000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香山碧海晴空南站",
+                "id": 298,
+                "station_num": "105600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.177303,
+                    24.484085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园40号楼站",
+                "id": 43,
+                "station_num": "131200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.181029,
+                    24.48565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奥林匹克博物馆南站",
+                "id": 299,
+                "station_num": "105400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.188693,
+                    24.479646000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园34号楼旁站",
+                "id": 44,
+                "station_num": "131100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18057999999999,
+                    24.487787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香山碧海晴空北站",
+                "id": 300,
+                "station_num": "105300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.177482,
+                    24.484677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园26号楼站",
+                "id": 45,
+                "station_num": "131000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.175693,
+                    24.489004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭兜西路站",
+                "id": 301,
+                "station_num": "105000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.172254,
+                    24.488607000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园32号楼站",
+                "id": 46,
+                "station_num": "130900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17851399999999,
+                    24.488067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奥林匹克博物馆北站",
+                "id": 302,
+                "station_num": "104900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.188513,
+                    24.480386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园30号楼站",
+                "id": 47,
+                "station_num": "130800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.176645,
+                    24.487458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北区一里西站",
+                "id": 303,
+                "station_num": "104800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.166038,
+                    24.47764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万景公寓站",
+                "id": 48,
+                "station_num": "130700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.161266,
+                    24.4844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔路-立洲弹簧站",
+                "id": 304,
+                "station_num": "104700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16788799999999,
+                    24.481931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖边花园B区站",
+                "id": 49,
+                "station_num": "130600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.165409,
+                    24.496257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔路西站",
+                "id": 305,
+                "station_num": "104600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.167295,
+                    24.482161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖边花园A区",
+                "id": 50,
+                "station_num": "130500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.169146,
+                    24.504493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园西门站东",
+                "id": 306,
+                "station_num": "104500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17095099999999,
+                    24.495525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "虎仔山庄站",
+                "id": 51,
+                "station_num": "130400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18341099999999,
+                    24.488694000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭兜一里东站",
+                "id": 307,
+                "station_num": "104400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.173262,
+                    24.480377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "观音山公寓站",
+                "id": 52,
+                "station_num": "130300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.188908,
+                    24.497128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭兜一里西站",
+                "id": 308,
+                "station_num": "104300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17256099999999,
+                    24.480673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高林居住区一里",
+                "id": 53,
+                "station_num": "130200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.183177,
+                    24.507584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "思明文体楼东站",
+                "id": 309,
+                "station_num": "104200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.171087,
+                    24.476664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "会展北路站",
+                "id": 54,
+                "station_num": "130100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.183312,
+                    24.471799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "思明文体楼西站",
+                "id": 310,
+                "station_num": "104100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16995499999999,
+                    24.476688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安踏对面宝业大厦旁站",
+                "id": 55,
+                "station_num": "130000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.19153999999999,
+                    24.488126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "下湖社站",
+                "id": 311,
+                "station_num": "104000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.172091,
+                    24.501233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "观音山2号楼旁（兴业银行旁）",
+                "id": 56,
+                "station_num": "129900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.19004,
+                    24.494128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "下湖社东站",
+                "id": 312,
+                "station_num": "103900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17138999999999,
+                    24.499392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "观音山9号楼旁",
+                "id": 57,
+                "station_num": "129800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.190956,
+                    24.496725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "国贸天琴湾站",
+                "id": 313,
+                "station_num": "103800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16291,
+                    24.520253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "何厝下堡公交站旁",
+                "id": 58,
+                "station_num": "129700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.188279,
+                    24.49906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "特房五缘尊墅站",
+                "id": 314,
+                "station_num": "103700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.161222,
+                    24.520927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达广场对面天桥下",
+                "id": 59,
+                "station_num": "129600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.171302,
+                    24.506762000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "紫金家园西站",
+                "id": 315,
+                "station_num": "103600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.159658,
+                    24.522965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华润燃气大厦站",
+                "id": 60,
+                "station_num": "129500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.157252,
+                    24.487518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "乐购站南",
+                "id": 316,
+                "station_num": "103500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.155445,
+                    24.513924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡塘广场(大润发左边人行道上)",
+                "id": 61,
+                "station_num": "129400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.153264,
+                    24.488390000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云顶北路-太古可口可乐西站",
+                "id": 317,
+                "station_num": "103400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.153927,
+                    24.514204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠仑公园（吕岭路侧）站",
+                "id": 62,
+                "station_num": "129300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.146149,
+                    24.49079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中铁元湾西站",
+                "id": 318,
+                "station_num": "103300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.166917,
+                    24.543017000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仙岳医院站",
+                "id": 63,
+                "station_num": "129200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.107109,
+                    24.497646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中铁元湾东站",
+                "id": 319,
+                "station_num": "103200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.167564,
+                    24.542820000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松柏路松柏公园站",
+                "id": 64,
+                "station_num": "129100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.119523,
+                    24.494276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中绿集团站",
+                "id": 320,
+                "station_num": "103100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.148951,
+                    24.541193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "体育路海洋学院站",
+                "id": 65,
+                "station_num": "129000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10135899999999,
+                    24.490363000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "机场东站",
+                "id": 321,
+                "station_num": "103000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14638199999999,
+                    24.540519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖光路烟草局站",
+                "id": 66,
+                "station_num": "128900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10842,
+                    24.480908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦门二中东站",
+                "id": 322,
+                "station_num": "102900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.154444,
+                    24.539829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖光路南湖公园门口",
+                "id": 67,
+                "station_num": "128800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10198799999999,
+                    24.479642000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦门二中西站",
+                "id": 323,
+                "station_num": "102800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.154049,
+                    24.539488000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦门市第一医院站",
+                "id": 68,
+                "station_num": "128700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.082657,
+                    24.455584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五缘湾商业街西站",
+                "id": 324,
+                "station_num": "102700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.163528,
+                    24.537446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新华路市公安局站",
+                "id": 69,
+                "station_num": "128600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08019499999999,
+                    24.459662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五缘湾商业街东站",
+                "id": 325,
+                "station_num": "102600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.163654,
+                    24.536172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT斗西路口站北站",
+                "id": 70,
+                "station_num": "128500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.082477,
+                    24.465073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "墩上公交场东站",
+                "id": 326,
+                "station_num": "102500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.159701,
+                    24.537002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT斗西路口站南站",
+                "id": 71,
+                "station_num": "128400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.082477,
+                    24.464563000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "墩上公交场西站",
+                "id": 327,
+                "station_num": "102400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.159809,
+                    24.536361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "建设大厦",
+                "id": 72,
+                "station_num": "128300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.079567,
+                    24.463955000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "墩岭路站",
+                "id": 328,
+                "station_num": "102300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.156629,
+                    24.535926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第六中学（厦禾路）",
+                "id": 73,
+                "station_num": "128200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.075955,
+                    24.46305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五缘湾粟喉蜂虎保护区站",
+                "id": 329,
+                "station_num": "102200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.154347,
+                    24.536715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT思北站北站",
+                "id": 74,
+                "station_num": "128100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07586599999999,
+                    24.463593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "县黄路口西站",
+                "id": 330,
+                "station_num": "102100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.145788,
+                    24.53798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第一码头BRT枢纽站",
+                "id": 75,
+                "station_num": "128000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.067414,
+                    24.464685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "县黄路口东站",
+                "id": 331,
+                "station_num": "102000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.146633,
+                    24.537537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦门市环保局门口",
+                "id": 76,
+                "station_num": "127900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.06884099999999,
+                    24.465583000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT县后西站",
+                "id": 332,
+                "station_num": "101900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14758499999999,
+                    24.534151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西堤公交站",
+                "id": 77,
+                "station_num": "127800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.072362,
+                    24.468312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT县后东站",
+                "id": 333,
+                "station_num": "101800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14853699999999,
+                    24.533674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海湾公园晋爵会站",
+                "id": 78,
+                "station_num": "127700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.073045,
+                    24.474495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭下南路东站",
+                "id": 334,
+                "station_num": "101700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.156945,
+                    24.533387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "禹州商业中心边上",
+                "id": 79,
+                "station_num": "127600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07391199999999,
+                    24.467464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅红星美凯龙西站",
+                "id": 335,
+                "station_num": "101600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.160449,
+                    24.532516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉美花园公交站边上（南侧）",
+                "id": 80,
+                "station_num": "127500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07535299999999,
+                    24.466197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅红星美凯龙东站",
+                "id": 336,
+                "station_num": "101500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16044,
+                    24.531751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉美花园公交站边上（北侧）",
+                "id": 81,
+                "station_num": "127400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.075627,
+                    24.466341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岭下南路西站",
+                "id": 337,
+                "station_num": "101400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.153183,
+                    24.531353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "故宫路西侧（靠禾祥西路）",
+                "id": 82,
+                "station_num": "127300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.077833,
+                    24.467205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安岭路站",
+                "id": 338,
+                "station_num": "101300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15774499999999,
+                    24.531825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "故宫路与湖滨南路交叉口西侧",
+                "id": 83,
+                "station_num": "127200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07696999999999,
+                    24.468981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安岭路口西站",
+                "id": 339,
+                "station_num": "101200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14933699999999,
+                    24.529557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨南路北侧帝景宛边上",
+                "id": 84,
+                "station_num": "127100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07608099999999,
+                    24.469252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安岭路口东站",
+                "id": 340,
+                "station_num": "101100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.150504,
+                    24.529245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鹭滨大厦",
+                "id": 85,
+                "station_num": "127000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07190899999999,
+                    24.467704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅西站",
+                "id": 341,
+                "station_num": "101000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.158248,
+                    24.529146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨西路海湾公园站",
+                "id": 86,
+                "station_num": "126900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.073606,
+                    24.476039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钟宅东站",
+                "id": 342,
+                "station_num": "100900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.158823,
+                    24.528341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "建业路与筼筜路交叉口",
+                "id": 87,
+                "station_num": "126800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.07976,
+                    24.477311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖里高新技术园南站",
+                "id": 343,
+                "station_num": "100800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.153666,
+                    24.526253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豆仔尾路与天湖路交叉口",
+                "id": 88,
+                "station_num": "126700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08126899999999,
+                    24.471622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT双十中学西站",
+                "id": 344,
+                "station_num": "100700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15177399999999,
+                    24.522703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "斗西路电力大厦门口",
+                "id": 89,
+                "station_num": "126600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.079764,
+                    24.470979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT双十中学东站",
+                "id": 345,
+                "station_num": "100600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.152492,
+                    24.523245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧斗西路口公交站边上",
+                "id": 90,
+                "station_num": "126500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.080438,
+                    24.470025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "双十中学西站",
+                "id": 346,
+                "station_num": "100500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.152546,
+                    24.518938000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豆仔尾路中部（西侧）",
+                "id": 91,
+                "station_num": "126400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.084086,
+                    24.469785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "双十中学东站",
+                "id": 347,
+                "station_num": "100400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15347999999999,
+                    24.519234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "市人民法院",
+                "id": 92,
+                "station_num": "126300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.094335,
+                    24.485767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云顶北路-太古可口可乐东站",
+                "id": 348,
+                "station_num": "100300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15442399999999,
+                    24.514196000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "斗西路与禾祥西路交叉口南侧",
+                "id": 93,
+                "station_num": "126200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.081285,
+                    24.467384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金湖路站",
+                "id": 349,
+                "station_num": "100200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15824099999999,
+                    24.514110000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "斗西路电控大厦对面",
+                "id": 94,
+                "station_num": "126100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08127599999999,
+                    24.467088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "市行政服务中心西侧",
+                "id": 350,
+                "station_num": "100100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.153852,
+                    24.516946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豆仔尾路美仁新村小区边上",
+                "id": 95,
+                "station_num": "126000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.082994,
+                    24.467223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美湖路与禾祥西路交叉口南侧",
+                "id": 96,
+                "station_num": "125900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.084284,
+                    24.468333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美湖路与禾祥西路交叉口北侧",
+                "id": 97,
+                "station_num": "125800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08431999999999,
+                    24.468695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美湖路中部（西侧）",
+                "id": 98,
+                "station_num": "125700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.084536,
+                    24.469583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧滨南长途汽车站公交站边上",
+                "id": 99,
+                "station_num": "125600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.084212,
+                    24.470898000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北侧滨南长途汽车站公交站",
+                "id": 100,
+                "station_num": "125500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08458999999999,
+                    24.47154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天湖支路停车场边上",
+                "id": 101,
+                "station_num": "125400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.083242,
+                    24.472855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中山公园南门边上",
+                "id": 102,
+                "station_num": "125300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08412999999999,
+                    24.459609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公园东路公交站背后（西侧）",
+                "id": 103,
+                "station_num": "125200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08514,
+                    24.460134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公园东路公交站背后（东侧）",
+                "id": 104,
+                "station_num": "125100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08619999999999,
+                    24.46145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公园东门公交站背后（西侧）",
+                "id": 105,
+                "station_num": "125000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08798399999999,
+                    24.464382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公园东门公交站背后（东侧）",
+                "id": 106,
+                "station_num": "124900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08854099999999,
+                    24.464481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "袁厝公交站背后（西侧）",
+                "id": 107,
+                "station_num": "124800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08708499999999,
+                    24.468493000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "袁厝公交站背后（东侧）",
+                "id": 108,
+                "station_num": "124700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08771399999999,
+                    24.468115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后江埭路朝九中心边上（东侧）",
+                "id": 109,
+                "station_num": "124600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08902599999999,
+                    24.468559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "开元街道公交站边上（南侧）",
+                "id": 110,
+                "station_num": "124500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08967299999999,
+                    24.469903000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "开元街道公交站边上（北侧）",
+                "id": 111,
+                "station_num": "124400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08979799999999,
+                    24.470397000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT文灶站北侧之西侧",
+                "id": 112,
+                "station_num": "124300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10369499999999,
+                    24.470056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨南路·君龙人寿站",
+                "id": 113,
+                "station_num": "124200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08735499999999,
+                    24.471712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "非矿公交站天桥下绿化带内",
+                "id": 114,
+                "station_num": "124100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.088939,
+                    24.472530000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦门市科协边上",
+                "id": 115,
+                "station_num": "124000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.088535,
+                    24.473385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天湖苑公交站背后（东侧）",
+                "id": 116,
+                "station_num": "123900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08679799999999,
+                    24.473463000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白鹭洲公园公交站以南60米（东侧）",
+                "id": 117,
+                "station_num": "123800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.087166,
+                    24.475322000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白鹭洲公园公交站边上（东侧）",
+                "id": 118,
+                "station_num": "123700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.086879,
+                    24.476604000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后滨路厦禾裕景边上",
+                "id": 119,
+                "station_num": "123600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.093481,
+                    24.469829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后滨路广电网络门口",
+                "id": 120,
+                "station_num": "123500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09253799999999,
+                    24.472329000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中山医院急诊楼西侧绿化带内",
+                "id": 121,
+                "station_num": "123400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.092125,
+                    24.473422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧中山医院公交站边上",
+                "id": 122,
+                "station_num": "123300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09402899999999,
+                    24.473488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉禾园自助图书馆边上",
+                "id": 123,
+                "station_num": "123200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09511599999999,
+                    24.474113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉禾园公交站边上（东侧）",
+                "id": 124,
+                "station_num": "123100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09534099999999,
+                    24.475231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉禾园公交站边上（西侧）",
+                "id": 125,
+                "station_num": "123000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.094793,
+                    24.475659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白鹭洲公交站背后（西侧）",
+                "id": 126,
+                "station_num": "122900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09207099999999,
+                    24.479876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白鹭洲公交站背后（东侧）",
+                "id": 127,
+                "station_num": "122800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09226899999999,
+                    24.480452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石亭路外国语学校东门门口",
+                "id": 128,
+                "station_num": "122700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.088101,
+                    24.480731000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨中路振兴大厦公厕",
+                "id": 129,
+                "station_num": "122600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.090454,
+                    24.482721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第一医院天桥站",
+                "id": 130,
+                "station_num": "122500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.082864,
+                    24.455847000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奔马新村公交站边上（北侧）",
+                "id": 131,
+                "station_num": "122400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.088884,
+                    24.469973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金榜西路中部（西侧）",
+                "id": 132,
+                "station_num": "122300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10309799999999,
+                    24.474002000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后埭溪路东侧",
+                "id": 133,
+                "station_num": "122200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.101248,
+                    24.474323000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后埭溪路湖滨中学围墙边上",
+                "id": 134,
+                "station_num": "122100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.100656,
+                    24.476628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖光路筼筜湖管理中心门口左侧",
+                "id": 135,
+                "station_num": "122000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0992,
+                    24.478848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东明路中祥大厦",
+                "id": 136,
+                "station_num": "121900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.103929,
+                    24.482582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨东路与禾祥东路交叉口南侧",
+                "id": 137,
+                "station_num": "121800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10895599999999,
+                    24.474228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨东路与禾祥东路交叉口北侧",
+                "id": 138,
+                "station_num": "121700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10892,
+                    24.474524000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东明路思明执法局门口",
+                "id": 139,
+                "station_num": "121600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.109124,
+                    24.485117000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长青路松柏公园西门门口",
+                "id": 140,
+                "station_num": "121500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.117269,
+                    24.493371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仙岳路海沧大桥底下南侧",
+                "id": 141,
+                "station_num": "121400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08191699999999,
+                    24.494748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和宁路口",
+                "id": 142,
+                "station_num": "121300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.086417,
+                    24.49423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "古玩城路口右侧绿化带内",
+                "id": 143,
+                "station_num": "121200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08640799999999,
+                    24.493712000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和通路口",
+                "id": 144,
+                "station_num": "121100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08727999999999,
+                    24.493917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "滨北小学地下通道出口（东侧）",
+                "id": 145,
+                "station_num": "121000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08887899999999,
+                    24.491303000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东芳丽景门口",
+                "id": 146,
+                "station_num": "120900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08896899999999,
+                    24.487883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仙岳大厦边上（地下通道出口）",
+                "id": 147,
+                "station_num": "120800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.091825,
+                    24.492356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七星西路与仙岳路交叉路口西侧",
+                "id": 148,
+                "station_num": "120700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.090747,
+                    24.491698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七星西路七星大厦边上",
+                "id": 149,
+                "station_num": "120600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09141199999999,
+                    24.490695000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七星西路乐购门口",
+                "id": 150,
+                "station_num": "120500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.091304,
+                    24.489544000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七星西路七星首府边上",
+                "id": 151,
+                "station_num": "120400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.092005,
+                    24.488179000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "体育路与七星西路路口",
+                "id": 152,
+                "station_num": "120300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.092238,
+                    24.487460000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "体育路与七星路交叉口南侧",
+                "id": 153,
+                "station_num": "120200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.094296,
+                    24.488072000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧岳阳小区公交站",
+                "id": 154,
+                "station_num": "120100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.094754,
+                    24.492047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宗教局门口右侧绿化带内",
+                "id": 155,
+                "station_num": "120000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.09611899999999,
+                    24.492968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖滨东路与仙岳路交叉路口西侧",
+                "id": 156,
+                "station_num": "119900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.097425,
+                    24.492648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东岳二路与仙岳路交叉路口西侧",
+                "id": 157,
+                "station_num": "119800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10127,
+                    24.493585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东岳二路与仙岳路交叉路口东侧",
+                "id": 158,
+                "station_num": "119700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.101737,
+                    24.493684000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "体育中路北门边上",
+                "id": 159,
+                "station_num": "119600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10329999999999,
+                    24.490280000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "文化艺术中心南站公交站边上",
+                "id": 160,
+                "station_num": "119500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10534799999999,
+                    24.491365000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "体育路与育秀东路交叉口西侧",
+                "id": 161,
+                "station_num": "119400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.108312,
+                    24.49199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "育秀东路大润发地下车库出口",
+                "id": 162,
+                "station_num": "119300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10806099999999,
+                    24.493092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧文化宫公交站边上",
+                "id": 163,
+                "station_num": "119200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10676699999999,
+                    24.495048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北侧文化宫公交站边上",
+                "id": 164,
+                "station_num": "119100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10685699999999,
+                    24.495805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲岳路北公交站北侧30米（西侧）",
+                "id": 165,
+                "station_num": "119000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10996499999999,
+                    24.495459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲岳派出所边上",
+                "id": 166,
+                "station_num": "118900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11054,
+                    24.495278000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松柏公交站北侧30米（西侧）",
+                "id": 167,
+                "station_num": "118800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.112247,
+                    24.491185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲岳路口公交站背后（西侧）",
+                "id": 168,
+                "station_num": "118700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.113666,
+                    24.488390000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲岳路口公交站背后（东侧）",
+                "id": 169,
+                "station_num": "118600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.114205,
+                    24.488242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "常明路劳动力大厦对面",
+                "id": 170,
+                "station_num": "118500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11679199999999,
+                    24.488373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "常明路劳动力大厦边上",
+                "id": 171,
+                "station_num": "118400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.118068,
+                    24.488488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百合花园小区门口左侧（西侧）",
+                "id": 172,
+                "station_num": "118300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11603799999999,
+                    24.485693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT文灶站北侧之东侧",
+                "id": 173,
+                "station_num": "118200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.105204,
+                    24.470467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧枋钟路口",
+                "id": 174,
+                "station_num": "118100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.131587,
+                    24.532027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧枋钟路口",
+                "id": 175,
+                "station_num": "118000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.131013,
+                    24.531764000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岐山北路北侧围里站旁靠坂尚路",
+                "id": 176,
+                "station_num": "117900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.137373,
+                    24.532257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岐山北路北侧林后路与岐山北路交界处",
+                "id": 177,
+                "station_num": "117800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.135109,
+                    24.531336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "林后西路金丰大厦旁",
+                "id": 178,
+                "station_num": "117700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.134857,
+                    24.529331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧戴尔门口天桥旁",
+                "id": 179,
+                "station_num": "117600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13377899999999,
+                    24.528509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大湖公交站北站",
+                "id": 180,
+                "station_num": "117500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13482099999999,
+                    24.528279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧坂上社公交站后头",
+                "id": 181,
+                "station_num": "117400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.137732,
+                    24.525748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧坂上社站旁",
+                "id": 182,
+                "station_num": "117300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.138415,
+                    24.524236000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧加气站往枋湖北二路50米",
+                "id": 183,
+                "station_num": "117200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.140103,
+                    24.523052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧坂上站旁",
+                "id": 184,
+                "station_num": "117100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14171999999999,
+                    24.522888000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧大众4S店旁",
+                "id": 185,
+                "station_num": "117000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14358899999999,
+                    24.519436000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧枋湖北路口往枋湖路40米",
+                "id": 186,
+                "station_num": "116900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.142906,
+                    24.51891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "枋湖路南侧枋湖村站旁",
+                "id": 187,
+                "station_num": "116800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.137193,
+                    24.515557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧枋湖南路口往枋湖路60米",
+                "id": 188,
+                "station_num": "116700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14423599999999,
+                    24.515359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧枋湖南路口往金湖路50米",
+                "id": 189,
+                "station_num": "116600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.143912,
+                    24.513683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金湖路水晶社旁（米车网门口）",
+                "id": 190,
+                "station_num": "116500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14693,
+                    24.512417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧厦门海事法院旁金湖路口",
+                "id": 191,
+                "station_num": "116400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.144685,
+                    24.511422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧湖里妇幼公交站往祥岭路50米",
+                "id": 192,
+                "station_num": "116300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.144128,
+                    24.51014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金湖三路禹洲香槟城埃菲尔楼旁",
+                "id": 193,
+                "station_num": "116200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.145691,
+                    24.509055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧厦门海事法院大门口旁",
+                "id": 194,
+                "station_num": "116100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14454099999999,
+                    24.509121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧祥店路往金湖路90米",
+                "id": 195,
+                "station_num": "116000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14389399999999,
+                    24.506869000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "祥岭路新天地社区旁",
+                "id": 196,
+                "station_num": "115900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14227699999999,
+                    24.506063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "祥岭路幸福生活社区旁",
+                "id": 197,
+                "station_num": "115800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.138576,
+                    24.506014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧沁湘楼旁（鸿福楼门口）",
+                "id": 198,
+                "station_num": "115700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.144415,
+                    24.505291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧中国石化旁",
+                "id": 199,
+                "station_num": "115600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.143768,
+                    24.504666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仙岳路前坑站旁（通道边上）",
+                "id": 200,
+                "station_num": "115500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14880799999999,
+                    24.501888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧祥店公交站后头",
+                "id": 201,
+                "station_num": "115400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14414599999999,
+                    24.502019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仙岳路肯德基往金尚路70米",
+                "id": 202,
+                "station_num": "115300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13980699999999,
+                    24.501411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧祥店公交站北侧",
+                "id": 203,
+                "station_num": "115200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.143328,
+                    24.499717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧金尚公园旁",
+                "id": 204,
+                "station_num": "115100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14367,
+                    24.499742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "后埔二路太薇花园旁",
+                "id": 205,
+                "station_num": "115000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14158599999999,
+                    24.498908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金昌路好惠佳生鲜超市对面",
+                "id": 206,
+                "station_num": "114900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.148224,
+                    24.497321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金昌路金尚小区旁（原良露源茶行对面）",
+                "id": 207,
+                "station_num": "114800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14489999999999,
+                    24.497995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧中孚花园公交站北侧天桥下方",
+                "id": 208,
+                "station_num": "114700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.141846,
+                    24.495599000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧中孚花园公交站北侧",
+                "id": 209,
+                "station_num": "114600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.142259,
+                    24.49532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路东侧林德叉车大门口正对面",
+                "id": 210,
+                "station_num": "114400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14105599999999,
+                    24.490765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "林德叉车大门口南侧",
+                "id": 211,
+                "station_num": "114300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.140535,
+                    24.490223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧谊爱路口往莲前西路方向80米",
+                "id": 212,
+                "station_num": "114200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.140103,
+                    24.487905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠仑公园（金尚路东侧）",
+                "id": 213,
+                "station_num": "114100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.140355,
+                    24.486754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东侧禹洲花园公交站",
+                "id": 214,
+                "station_num": "114000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.139996,
+                    24.485274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西侧禹洲花园公交站",
+                "id": 215,
+                "station_num": "113900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.139457,
+                    24.485076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧西林公交站北侧绿化带上",
+                "id": 216,
+                "station_num": "113800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13938499999999,
+                    24.482988000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路西侧西林公交站北侧绿化带上",
+                "id": 217,
+                "station_num": "113700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.13873799999999,
+                    24.48215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲富大厦门口",
+                "id": 218,
+                "station_num": "113600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11761,
+                    24.478730000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "水务大厦门口西侧绿化带内",
+                "id": 219,
+                "station_num": "113500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.121203,
+                    24.479437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT龙山桥南侧绿化带内",
+                "id": 220,
+                "station_num": "113400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.12601799999999,
+                    24.478483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT龙山桥北侧绿化带内",
+                "id": 221,
+                "station_num": "113300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.126629,
+                    24.478812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "移动公司对面绿化带内",
+                "id": 222,
+                "station_num": "113200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.131965,
+                    24.478861000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "移动公司门口天桥下",
+                "id": 223,
+                "station_num": "113100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1313,
+                    24.479091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "卧龙路路口（龙山公园自助图书馆边上）",
+                "id": 224,
+                "station_num": "113000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.131749,
+                    24.479585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北侧卧龙晓城公交站边上",
+                "id": 225,
+                "station_num": "112900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.136771,
+                    24.480333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金尚路口正对面绿化带内",
+                "id": 226,
+                "station_num": "112800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.138424,
+                    24.479856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "牡丹大酒店门口",
+                "id": 227,
+                "station_num": "112700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.140023,
+                    24.479593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云顶学校大门正对面",
+                "id": 228,
+                "station_num": "112600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14298699999999,
+                    24.47785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT东芳山庄站底下人行道上",
+                "id": 229,
+                "station_num": "112500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14569999999999,
+                    24.478935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT东芳山庄站北侧绿化带内",
+                "id": 230,
+                "station_num": "112400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.146023,
+                    24.479626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT洪文站南侧绿化带内",
+                "id": 231,
+                "station_num": "112300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15358699999999,
+                    24.478524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRT洪文站北侧人行天桥下",
+                "id": 232,
+                "station_num": "112200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15470099999999,
+                    24.478754000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "市政府站",
+                "id": 233,
+                "station_num": "112100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08708999999999,
+                    24.482828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪莲路东侧益辉花园人行道上",
+                "id": 234,
+                "station_num": "112000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.156066,
+                    24.481007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪文五路邮政报刊亭边上",
+                "id": 235,
+                "station_num": "111900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15683899999999,
+                    24.47711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南侧潘宅公交站背后绿化带内",
+                "id": 236,
+                "station_num": "111800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.158564,
+                    24.477422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪莲中路侨福城北门门口",
+                "id": 237,
+                "station_num": "111700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.159731,
+                    24.481632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔西路与田厝路交叉口边上",
+                "id": 238,
+                "station_num": "111600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16159999999999,
+                    24.478360000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔西路西侧侨福城公交站背后",
+                "id": 239,
+                "station_num": "111500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16134799999999,
+                    24.479215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔南路厦门城市职业学院旁",
+                "id": 240,
+                "station_num": "111400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16335099999999,
+                    24.465213000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前埔南路厦门城市职业学院旁对面街公交站旁",
+                "id": 241,
+                "station_num": "111300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16381899999999,
+                    24.465015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城市职业学院柯厝路口站",
+                "id": 242,
+                "station_num": "111200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.16319899999999,
+                    24.466857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大同中学前埔校区站",
+                "id": 243,
+                "station_num": "111100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.163917,
+                    24.467383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "软件园东门西站",
+                "id": 244,
+                "station_num": "111000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18222499999999,
+                    24.485405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "家家海景西站",
+                "id": 245,
+                "station_num": "110900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17760799999999,
+                    24.476123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海峡国际社区西站",
+                "id": 246,
+                "station_num": "110800",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.17997899999999,
+                    24.480875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奥网城西站",
+                "id": 247,
+                "station_num": "110700",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.181057,
+                    24.483539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东禾园站",
+                "id": 248,
+                "station_num": "110600",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.182876,
+                    24.489499000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塔埔路口西站",
+                "id": 249,
+                "station_num": "110500",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.182149,
+                    24.496931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲山头西站",
+                "id": 250,
+                "station_num": "110400",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.183887,
+                    24.503092000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高林居住区西站",
+                "id": 251,
+                "station_num": "110300",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18439,
+                    24.507325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高林居住区东站",
+                "id": 252,
+                "station_num": "110200",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.185108,
+                    24.507041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "莲山头东站",
+                "id": 253,
+                "station_num": "110100",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.184022,
+                    24.501661000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塔埔路口东站",
+                "id": 254,
+                "station_num": "110000",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.18373,
+                    24.497983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海峡国际社区东站",
+                "id": 255,
+                "station_num": "109900",
+                "icon": "bicycle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.181466,
+                    24.482166
+                ]
+            }
+        }
+    ]
+}

@@ -5,6 +5,7 @@ from .MyGA import MyGA
 import networkx as nx
 import copy
 import math
+from math import radians, cos, sin, asin, sqrt
 
 
 class MultiRoute:
@@ -16,6 +17,7 @@ class MultiRoute:
         self.MAX_ROUTE = 5
         self.street_data = self.fp.load_data("resorted_community")
         self.min_price_graph = self.fp.load_data("min_price_graph")
+        self.transport_index = self.fp.load_data("transport_index")
         pass
 
     def calc_multi_route(self, input_data):
@@ -23,14 +25,16 @@ class MultiRoute:
         origin_site = input_data["origin_site"]
         destination_site = input_data["destination_site"]
         origin_site_id = str(self.get_street_id_by_name(origin_site))
-        destination_site = str(self.get_street_id_by_name(destination_site))
+        destination_site_id = str(self.get_street_id_by_name(destination_site))
 
-        # dual_graph = self.fp.load_data("Undirected_community_dual_matrix")
-        transport_index = self.fp.load_data("transport_index")
+        # 添加站点后更新时间表
+        if input_data["add_station"] is not None:
+            self.update_min_price_by_add_station(input_data["add_station"])
 
         node_len = len(self.min_price_graph)
         input_nodes = []
         for i in range(node_len):
+            # 去除90和96的街道点
             if i != 90 and i != 96:
                 input_nodes.append(str(i))
 
@@ -45,7 +49,7 @@ class MultiRoute:
         G.add_nodes_from(input_nodes)
         G.add_weighted_edges_from(input_edges)
 
-        ga = MyGA(G, self.min_price_graph, transport_index, input_nodes, [origin_site_id, destination_site], 100, 40, 0.8,
+        ga = MyGA(G, self.min_price_graph, self.transport_index, input_nodes, [origin_site_id, destination_site_id], 100, 40, 0.8,
                   0.05)
         route = ga.run()
 
@@ -255,3 +259,59 @@ class MultiRoute:
         t3 = hex(b)[2:]
         t3 = ("0" + t3) if len(t3) == 1 else t3
         return "#" + t1 + t2 + t3
+
+    def distance_computaion(self, coord1, coord2):
+        """
+        计算经纬度的直线距离
+        :param coord1:[lng1, lat1]
+        :param coord2:[lng2, lat2]
+        :return 距离/米
+        """
+        lng1, lat1, lng2, lat2 = map(radians, [float(coord1[0]), float(coord1[1]), float(coord2[0]),
+                                               float(coord2[1])])  # 经纬度转换成弧度
+        dlon = lng2 - lng1
+        dlat = lat2 - lat1
+        a = sin(dlat / 2) ** 2 + cos(lat1) * cos(lat2) * sin(dlon / 2) ** 2
+        distance = 2 * asin(sqrt(a)) * 6371 * 1000  # 地球平均半径，6371km
+        # distance = round(distance / 1000, 3)
+        return int(distance)
+
+    def update_min_price_by_add_station(self, add_station):
+        """
+        根据输入的添加单车站点，更新最短用时表
+        :param add_station 添加站点id列表
+        """
+        # 设置单车到达的最远街区直线距离
+        reach_dis = 1000
+        # 设置单车平均速度15km/h, 4.17m/s
+        bike_speed = 2.78
+
+        distance_table = self.fp.load_data("real_distance_table")
+        add_coord = []
+        for i in range(0, len(add_station)):
+            for each in self.street_data["node"]:
+                if each["id"] == add_station[i]:
+                    add_coord.append([each["lng"], each["lat"]])
+                    break
+        print(add_station, add_coord)
+        reach_street = []
+        for i in range(0, len(add_coord)):
+            tmp = []
+            for each in self.street_data["node"]:
+                dis = self.distance_computaion(add_coord[i], [each["lng"], each["lat"]])
+                if dis <= 1000:
+                    tmp.append(each["id"])
+            reach_street.append(tmp)
+        # print(reach_street)
+
+        for i in range(0, len(add_coord)):
+            for item in reach_street[i]:
+                new_bike_time = round(distance_table[add_station[i]][item] / bike_speed)
+                # print(str(add_station) + ":" + str(item) + "   , " + str(self.min_price_graph[add_station][item]) + "   , " + str(self.transport_index[add_station][item]) ,distance_table[add_station][item])
+                # print(new_bike_time)
+
+                if new_bike_time < self.min_price_graph[add_station[i]][item] or self.min_price_graph[add_station[i]][item] == -1:
+                    self.min_price_graph[add_station[i]][item] = new_bike_time
+                    self.transport_index[add_station[i]][item] = 0
+                    # print(add_station[i], item)
+

@@ -73,6 +73,7 @@ def get_community_network():
 def calc_multi_route():
     """多模式路线计算结果数据"""
     data = request.get_json()
+    print(data)
     # print(data["origin_site"], data["destination_site"])
     ga = MultiRoute.MultiRoute("./static/GA_input_data")
     route = ga.calc_multi_route(data)

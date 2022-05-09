@@ -3,13 +3,29 @@ from module.fileProcessing import FileProcessing
 import copy
 from module import *
 import math
-
+from math import radians, cos, sin, asin, sqrt
 
 def CorrectionCoordErr(coord_data):
     """mapbox下的坐标偏移纠正,lng,lat"""
     coord_data[0] -= 0.0113
     coord_data[1] -= 0.0034
     return coord_data
+
+
+def distance_computaion(coord1, coord2):
+    """
+    计算经纬度的直线距离
+    :param coord1:[lng1, lat1]
+    :param coord2:[lng2, lat2]
+    :return 距离/米
+    """
+    lng1, lat1, lng2, lat2 = map(radians, [float(coord1[0]), float(coord1[1]), float(coord2[0]), float(coord2[1])])  # 经纬度转换成弧度
+    dlon = lng2 - lng1
+    dlat = lat2 - lat1
+    a = sin(dlat / 2) ** 2 + cos(lat1) * cos(lat2) * sin(dlon / 2) ** 2
+    distance = 2 * asin(sqrt(a)) * 6371 * 1000  # 地球平均半径，6371km
+    # distance = round(distance / 1000, 3)
+    return int(distance)
 
 
 fp = FileProcessing()
@@ -145,12 +161,17 @@ if __name__ == '__main__':
     # community_geo = {"node": node_result, "link": result}
     # fp.save_file(community_geo, "community_geo")
 
-    data = {"origin_site": "福津大街", "destination_site": "中山路步行街"}
+    # data = {"origin_site": "福津大街", "destination_site": "中山路步行街"}
+    # ga = MultiRoute.MultiRoute("./static/GA_input_data")
+    # route = ga.calc_multi_route(data)
+    # print(route)
+
+    ############################################################################################
     ga = MultiRoute.MultiRoute("./static/GA_input_data")
-    route = ga.calc_multi_route(data)
-    print(route)
-
-
+    ga.update_min_price_by_add_station([310, 309])
+    # data = fp.load_data("./static/GA_input_data/min_price_graph")
+    # da = fp.load_data("./static/GA_input_data/transport_index")
+    # print(data[140][287], da[140][287])
 
     pass
 

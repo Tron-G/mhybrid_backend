@@ -61,6 +61,7 @@ class MultiRoute:
         route_data = self.get_route_geo(route, route_attr)
 
         result = {"route": route_data, "route_attr": route_attr, "all_history_Y": ga.all_history_Y}
+        # self.fp.save_file(result, "test")
         return result
 
     def get_street_id_by_name(self, name):
@@ -186,11 +187,15 @@ class MultiRoute:
             route_distance = []
             # 各条路段的出行用时
             route_time = []
+            # 各路段街道名
+            route_street = []
 
             for node in route_node:
                 for item in self.street_data["node"]:
                     if int(node) == item["id"]:
                         route_speed.append(item["speed"])
+                        route_street.append(item["name"])
+
             for i in range(1, len(route_node)):
                 start = int(route_node[i - 1])
                 end = int(route_node[i])
@@ -229,13 +234,23 @@ class MultiRoute:
                     carbon = 0.002633 * (0.3 * route_time[i-1] + 0.028 * route_distance[i-1] + 0.056*delta*(route_speed[i] ** 2 - route_speed[i - 1] ** 2))
                     route_carbon_list.append(carbon)
 
+            street_color = []
+            for item in route_speed:
+                street_color.append(self.speed_to_color(item))
+
             tmp = {
                 "route_id": index,
                 "cost_time": cost_time,
+                "route_time": route_time,
+                "total_distance": sum(route_distance),
+                "route_distance": route_distance,
+                "route_street": route_street,
+                "route_mode": route_mode,
                 "transfer_time": trans_time,
                 "cost_money": cost_money,
                 "route_carbon": sum(route_carbon_list),
                 "route_carbon_list": route_carbon_list,
+                "street_color": street_color
             }
             route_attr.append(tmp)
             index += 1
@@ -284,7 +299,7 @@ class MultiRoute:
         # 设置单车到达的最远街区直线距离
         reach_dis = 1000
         # 设置单车平均速度15km/h, 4.17m/s
-        bike_speed = 2.78
+        bike_speed = 4.17
 
         distance_table = self.fp.load_data("real_distance_table")
         add_coord = []

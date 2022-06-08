@@ -28,30 +28,38 @@ def distance_computaion(coord1, coord2):
     return int(distance)
 
 
+def extract_get_on_off_data():
+    data = fp.load_data("./static/od_data/get_off_clustered")
+    node_result = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+    for each in data["features"]:
+        if each["properties"]["label"] != "-1":
+            node_result["features"].append(each)
+
+    fp.save_file(node_result, "./static/od_data/get_off_classed")
+
+
 fp = FileProcessing()
 if __name__ == '__main__':
 
-    # data = fp.load_data("./static/od_data/get_on_clustered")
-    # node_result = {
-    #     "type": "FeatureCollection",
-    #     "features": []
-    # }
-    # node_tmp = {
-    #     "type": "Feature",
-    #     "properties": {
-    #     },
-    #     "geometry": {
-    #         "type": "Point",
-    #         "coordinates": [
-    #         ]
-    #     }
-    # }
-    #
-    # for each in data["features"]:
-    #     if each["properties"]["label"] != "-1":
-    #         result["features"].append(each)
-    #
-    # fp.save_file(result, "./static/od_data/get_on_classed")
+    node_result = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+    node_tmp = {
+        "type": "Feature",
+        "properties": {
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+            ]
+        }
+    }
+    extract_get_on_off_data()
+
     # 统计无向边
     # data = fp.load_data("./static/network_data/center_network")
     # links = copy.deepcopy(data["link"])
@@ -167,8 +175,8 @@ if __name__ == '__main__':
     # print(route)
 
     ############################################################################################
-    ga = MultiRoute.MultiRoute("./static/GA_input_data")
-    ga.update_min_price_by_add_station([310, 309])
+    # ga = MultiRoute.MultiRoute("./static/GA_input_data")
+    # ga.update_min_price_by_add_station([310, 309])
     # data = fp.load_data("./static/GA_input_data/min_price_graph")
     # da = fp.load_data("./static/GA_input_data/transport_index")
     # print(data[140][287], da[140][287])

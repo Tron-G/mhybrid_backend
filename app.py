@@ -15,6 +15,7 @@ def hello_world():
 
 
 @app.route('/get_on_data', methods=['GET', 'POST'])
+
 @cross_origin()
 def get_on_data():
     """获取上车热点数据"""

@@ -41,6 +41,23 @@ def extract_get_on_off_data():
     fp.save_file(node_result, "./static/od_data/get_off_classed")
 
 
+def change_time_data(start, end, add_time, is_save=-1):
+    """手动修改时间表里的两个节点间的时间"""
+    time_data = fp.load_data("./static/GA_input_data/min_price_graph")
+    dis_data = fp.load_data("./static/GA_input_data/real_distance_table")
+    index_data = fp.load_data("./static/GA_input_data/transport_index")
+
+    if is_save == 1:
+        time_data[start][end] += add_time
+        # time_data[end][start] += add_time
+        print("time: ", time_data[start][end], " , distance: ", dis_data[start][end], " , type(0-by,1-car): ",
+              index_data[start][end])
+        fp.save_file(time_data, "./static/GA_input_data/min_price_graph")
+    else:
+        print("time: ", time_data[start][end], " , distance: ", dis_data[start][end], " , type(0-by,1-car): ",
+              index_data[start][end])
+
+
 fp = FileProcessing()
 if __name__ == '__main__':
 
@@ -58,7 +75,8 @@ if __name__ == '__main__':
             ]
         }
     }
-    extract_get_on_off_data()
+
+    # extract_get_on_off_data()
 
     # 统计无向边
     # data = fp.load_data("./static/network_data/center_network")
@@ -180,6 +198,8 @@ if __name__ == '__main__':
     # data = fp.load_data("./static/GA_input_data/min_price_graph")
     # da = fp.load_data("./static/GA_input_data/transport_index")
     # print(data[140][287], da[140][287])
+
+    change_time_data(20, 4, 100, 11)
 
     pass
 

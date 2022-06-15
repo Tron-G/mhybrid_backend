@@ -1061,22 +1061,6 @@
             {
                 "type": "Feature",
                 "properties": {
-                    "name": "S206(后埭溪路)",
-                    "id": 66,
-                    "speed": 27.47,
-                    "color": "#F78812"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        118.10208391964822,
-                        24.471470040699863
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
                     "name": "站西一路",
                     "id": 67,
                     "speed": 22.43,
@@ -4895,22 +4879,6 @@
                     "coordinates": [
                         118.0927645389686,
                         24.463323151158715
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "name": "公园东路深田路口地下通道",
-                    "id": 306,
-                    "speed": 40,
-                    "color": "#6ECB63"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        118.08694531587687,
-                        24.462565029101125
                     ]
                 }
             },

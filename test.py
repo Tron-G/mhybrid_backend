@@ -199,7 +199,8 @@ if __name__ == '__main__':
     # da = fp.load_data("./static/GA_input_data/transport_index")
     # print(data[140][287], da[140][287])
 
-    change_time_data(20, 4, 100, 11)
+
+    change_time_data(287,342, 150, 111)
 
     pass
 

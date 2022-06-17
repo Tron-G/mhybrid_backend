@@ -29,7 +29,8 @@ class MultiRoute:
 
         # 添加站点后更新时间表
         if input_data["add_station"] is not None:
-            self.update_min_price_by_add_station(input_data["add_station"])
+            if len(input_data["add_station"]) != 0:
+                self.update_min_price_by_add_station(input_data["add_station"])
 
         node_len = len(self.min_price_graph)
         input_nodes = []
@@ -44,12 +45,13 @@ class MultiRoute:
                 if self.min_price_graph[i][j] != -1:
                     input_edges.append((str(i), str(j), self.min_price_graph[i][j]))
 
-        G = nx.Graph()
+        # 新建有向图
+        G = nx.DiGraph()
         # 往图添加节点和边
         G.add_nodes_from(input_nodes)
         G.add_weighted_edges_from(input_edges)
 
-        ga = MyGA(G, self.min_price_graph, self.transport_index, input_nodes, [origin_site_id, destination_site_id], 100, 40, 0.8,
+        ga = MyGA(G, self.min_price_graph, self.transport_index, input_nodes, [origin_site_id, destination_site_id], 100, 30, 0.8,
                   0.05)
         route = ga.run()
 
@@ -61,7 +63,7 @@ class MultiRoute:
         route_data = self.get_route_geo(route, route_attr)
 
         result = {"route": route_data, "route_attr": route_attr, "all_history_Y": ga.all_history_Y}
-        # self.fp.save_file(result, "test")
+        self.fp.save_file(result, "test-add")
         return result
 
     def get_street_id_by_name(self, name):
@@ -297,9 +299,9 @@ class MultiRoute:
         :param add_station 添加站点id列表
         """
         # 设置单车到达的最远街区直线距离
-        reach_dis = 1000
+        REACH_DIS = 1000
         # 设置单车平均速度15km/h, 4.17m/s
-        bike_speed = 4.17
+        BIKE_SPEED = 4.17
 
         distance_table = self.fp.load_data("real_distance_table")
         add_coord = []
@@ -309,24 +311,23 @@ class MultiRoute:
                     add_coord.append([each["lng"], each["lat"]])
                     break
         print(add_station, add_coord)
+        # 计算添加站点对应的可到达街区，小于等于1km，结果为二维数组，一个站点对应一个街道id数组
         reach_street = []
         for i in range(0, len(add_coord)):
             tmp = []
             for each in self.street_data["node"]:
                 dis = self.distance_computaion(add_coord[i], [each["lng"], each["lat"]])
-                if dis <= 1000:
+                if dis <= REACH_DIS:
                     tmp.append(each["id"])
             reach_street.append(tmp)
         # print(reach_street)
-
+        # 如果新加的单车路线较快则覆盖原来的路线
         for i in range(0, len(add_coord)):
             for item in reach_street[i]:
-                new_bike_time = round(distance_table[add_station[i]][item] / bike_speed)
+                new_bike_time = round(distance_table[add_station[i]][item] / BIKE_SPEED)
                 # print(str(add_station) + ":" + str(item) + "   , " + str(self.min_price_graph[add_station][item]) + "   , " + str(self.transport_index[add_station][item]) ,distance_table[add_station][item])
                 # print(new_bike_time)
 
                 if new_bike_time < self.min_price_graph[add_station[i]][item] or self.min_price_graph[add_station[i]][item] == -1:
                     self.min_price_graph[add_station[i]][item] = new_bike_time
                     self.transport_index[add_station[i]][item] = 0
-                    # print(add_station[i], item)
-

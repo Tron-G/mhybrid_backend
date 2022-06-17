@@ -4213,22 +4213,6 @@
             {
                 "type": "Feature",
                 "properties": {
-                    "name": "中山路商圈思明西路",
-                    "id": 264,
-                    "speed": 17,
-                    "color": "#E02401"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        118.07421021832722,
-                        24.458147766279804
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
                     "name": "图强路",
                     "id": 265,
                     "speed": 15,
@@ -4303,22 +4287,6 @@
                     "coordinates": [
                         118.07251664294981,
                         24.456380488362473
-                    ]
-                }
-            },
-            {
-                "type": "Feature",
-                "properties": {
-                    "name": "中山路商圈新华路",
-                    "id": 270,
-                    "speed": 21,
-                    "color": "#F78812"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        118.0811445080481,
-                        24.458604629691287
                     ]
                 }
             },

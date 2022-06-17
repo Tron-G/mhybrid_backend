@@ -15,7 +15,6 @@ def hello_world():
 
 
 @app.route('/get_on_data', methods=['GET', 'POST'])
-
 @cross_origin()
 def get_on_data():
     """获取上车热点数据"""
@@ -75,9 +74,11 @@ def calc_multi_route():
     """多模式路线计算结果数据"""
     data = request.get_json()
     print(data)
-    # print(data["origin_site"], data["destination_site"])
     ga = MultiRoute.MultiRoute("./static/GA_input_data")
     route = ga.calc_multi_route(data)
+    # fp = fileProcessing.FileProcessing()
+    # route = fp.load_data("test")
+    # route = fp.load_data("test_one-moudle")
     return jsonify(route)
 
 

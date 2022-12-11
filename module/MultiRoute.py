@@ -63,7 +63,7 @@ class MultiRoute:
         route_data = self.get_route_geo(route, route_attr)
 
         result = {"route": route_data, "route_attr": route_attr, "all_history_Y": ga.all_history_Y}
-        self.fp.save_file(result, "test-add")
+        # self.fp.save_file(result, "test-add")
         return result
 
     def get_street_id_by_name(self, name):

@@ -1,0 +1,5086 @@
+{
+    "route": [
+        {
+            "cost_time": 1319,
+            "node": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 161,
+                            "name": "福津大街",
+                            "speed": 20,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10776372572482,
+                                24.485653201651264
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 20,
+                            "name": "槟榔西里",
+                            "speed": 23.45,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10778600370148,
+                                24.48189479513663
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 1,
+                            "name": "湖滨东路",
+                            "speed": 23.85,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10894086526473,
+                                24.473432127820974
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 2,
+                            "name": "湖滨中路",
+                            "speed": 27.58,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.09818177034471,
+                                24.471474891690903
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 205,
+                            "name": "共和路",
+                            "speed": 42,
+                            "color": "#6ECB63"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.08640264951846,
+                                24.460790660095316
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 119,
+                            "name": "新华路",
+                            "speed": 19,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0811445080481,
+                                24.458604629691287
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 233,
+                            "name": "思明西路",
+                            "speed": 16,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07421021832722,
+                                24.458147766279804
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 258,
+                            "name": "中山路商圈升平路",
+                            "speed": 18,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0705660623661,
+                                24.457503993880167
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 138,
+                            "name": "中山路商圈镇邦路",
+                            "speed": 13,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07116855587144,
+                                24.457236501317002
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 342,
+                            "name": "中山路步行街",
+                            "speed": 14,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0719087596114,
+                                24.45640655531834
+                            ]
+                        }
+                    }
+                ]
+            },
+            "link": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10776372572482,
+                                    24.485653201651264
+                                ],
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e66700"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ],
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e6a500"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ],
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e60000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ],
+                                [
+                                    118.08640264951846,
+                                    24.460790660095316
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#a0d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.08640264951846,
+                                    24.460790660095316
+                                ],
+                                [
+                                    118.0811445080481,
+                                    24.458604629691287
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#d2d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.0811445080481,
+                                    24.458604629691287
+                                ],
+                                [
+                                    118.07421021832722,
+                                    24.458147766279804
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#7fd200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07421021832722,
+                                    24.458147766279804
+                                ],
+                                [
+                                    118.0705660623661,
+                                    24.457503993880167
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.0705660623661,
+                                    24.457503993880167
+                                ],
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ],
+                                [
+                                    118.0719087596114,
+                                    24.45640655531834
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cost_time": 1405,
+            "node": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 161,
+                            "name": "福津大街",
+                            "speed": 20,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10776372572482,
+                                24.485653201651264
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 20,
+                            "name": "槟榔西里",
+                            "speed": 23.45,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10778600370148,
+                                24.48189479513663
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 1,
+                            "name": "湖滨东路",
+                            "speed": 23.85,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10894086526473,
+                                24.473432127820974
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 2,
+                            "name": "湖滨中路",
+                            "speed": 27.58,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.09818177034471,
+                                24.471474891690903
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 105,
+                            "name": "故宫路",
+                            "speed": 16,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0786624000943,
+                                24.46516367470106
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 301,
+                            "name": "光彩街",
+                            "speed": 16,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07422886265807,
+                                24.461070185533583
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 238,
+                            "name": "横竹路",
+                            "speed": 12,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07075066414833,
+                                24.459435054412044
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 138,
+                            "name": "中山路商圈镇邦路",
+                            "speed": 13,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07116855587144,
+                                24.457236501317002
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 342,
+                            "name": "中山路步行街",
+                            "speed": 14,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0719087596114,
+                                24.45640655531834
+                            ]
+                        }
+                    }
+                ]
+            },
+            "link": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10776372572482,
+                                    24.485653201651264
+                                ],
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e67500"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ],
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e6b000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ],
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e60000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ],
+                                [
+                                    118.0786624000943,
+                                    24.46516367470106
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#a9d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.0786624000943,
+                                    24.46516367470106
+                                ],
+                                [
+                                    118.07422886265807,
+                                    24.461070185533583
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#a8d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07422886265807,
+                                    24.461070185533583
+                                ],
+                                [
+                                    118.07075066414833,
+                                    24.459435054412044
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#6fd200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07075066414833,
+                                    24.459435054412044
+                                ],
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ],
+                                [
+                                    118.0719087596114,
+                                    24.45640655531834
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cost_time": 1435,
+            "node": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 161,
+                            "name": "福津大街",
+                            "speed": 20,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10776372572482,
+                                24.485653201651264
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 20,
+                            "name": "槟榔西里",
+                            "speed": 23.45,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10778600370148,
+                                24.48189479513663
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 1,
+                            "name": "湖滨东路",
+                            "speed": 23.85,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10894086526473,
+                                24.473432127820974
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 2,
+                            "name": "湖滨中路",
+                            "speed": 27.58,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.09818177034471,
+                                24.471474891690903
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 205,
+                            "name": "共和路",
+                            "speed": 42,
+                            "color": "#6ECB63"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.08640264951846,
+                                24.460790660095316
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 119,
+                            "name": "新华路",
+                            "speed": 19,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0811445080481,
+                                24.458604629691287
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 302,
+                            "name": "双莲池街",
+                            "speed": 25,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07810993412109,
+                                24.46185598444498
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 301,
+                            "name": "光彩街",
+                            "speed": 16,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07422886265807,
+                                24.461070185533583
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 238,
+                            "name": "横竹路",
+                            "speed": 12,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07075066414833,
+                                24.459435054412044
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 138,
+                            "name": "中山路商圈镇邦路",
+                            "speed": 13,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07116855587144,
+                                24.457236501317002
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 342,
+                            "name": "中山路步行街",
+                            "speed": 14,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0719087596114,
+                                24.45640655531834
+                            ]
+                        }
+                    }
+                ]
+            },
+            "link": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10776372572482,
+                                    24.485653201651264
+                                ],
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e66700"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ],
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e6a500"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ],
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e60000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ],
+                                [
+                                    118.08640264951846,
+                                    24.460790660095316
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#a0d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.08640264951846,
+                                    24.460790660095316
+                                ],
+                                [
+                                    118.0811445080481,
+                                    24.458604629691287
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#bbd200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.0811445080481,
+                                    24.458604629691287
+                                ],
+                                [
+                                    118.07810993412109,
+                                    24.46185598444498
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#bcd200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07810993412109,
+                                    24.46185598444498
+                                ],
+                                [
+                                    118.07422886265807,
+                                    24.461070185533583
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#b2d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07422886265807,
+                                    24.461070185533583
+                                ],
+                                [
+                                    118.07075066414833,
+                                    24.459435054412044
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#76d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07075066414833,
+                                    24.459435054412044
+                                ],
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ],
+                                [
+                                    118.0719087596114,
+                                    24.45640655531834
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cost_time": 1490,
+            "node": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 161,
+                            "name": "福津大街",
+                            "speed": 20,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10776372572482,
+                                24.485653201651264
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 20,
+                            "name": "槟榔西里",
+                            "speed": 23.45,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10778600370148,
+                                24.48189479513663
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 1,
+                            "name": "湖滨东路",
+                            "speed": 23.85,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10894086526473,
+                                24.473432127820974
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 2,
+                            "name": "湖滨中路",
+                            "speed": 27.58,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.09818177034471,
+                                24.471474891690903
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 105,
+                            "name": "故宫路",
+                            "speed": 16,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0786624000943,
+                                24.46516367470106
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 294,
+                            "name": "海岸街",
+                            "speed": 25,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07928564445692,
+                                24.463744556488752
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 188,
+                            "name": "思明北路",
+                            "speed": 15,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07464832192429,
+                                24.460726522830345
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 138,
+                            "name": "中山路商圈镇邦路",
+                            "speed": 13,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07116855587144,
+                                24.457236501317002
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 342,
+                            "name": "中山路步行街",
+                            "speed": 14,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0719087596114,
+                                24.45640655531834
+                            ]
+                        }
+                    }
+                ]
+            },
+            "link": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10776372572482,
+                                    24.485653201651264
+                                ],
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e67500"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ],
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e6b000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10894086526473,
+                                    24.473432127820974
+                                ],
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e60000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.09818177034471,
+                                    24.471474891690903
+                                ],
+                                [
+                                    118.0786624000943,
+                                    24.46516367470106
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.0786624000943,
+                                    24.46516367470106
+                                ],
+                                [
+                                    118.07928564445692,
+                                    24.463744556488752
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#c4d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07928564445692,
+                                    24.463744556488752
+                                ],
+                                [
+                                    118.07464832192429,
+                                    24.460726522830345
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#d5d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07464832192429,
+                                    24.460726522830345
+                                ],
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ],
+                                [
+                                    118.0719087596114,
+                                    24.45640655531834
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cost_time": 1520,
+            "node": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 161,
+                            "name": "福津大街",
+                            "speed": 20,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10776372572482,
+                                24.485653201651264
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 20,
+                            "name": "槟榔西里",
+                            "speed": 23.45,
+                            "color": "#F78812"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10778600370148,
+                                24.48189479513663
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 9,
+                            "name": "湖光路",
+                            "speed": 20.39,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.10311607267884,
+                                24.479597980934898
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 183,
+                            "name": "豆仔尾路",
+                            "speed": 18,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.08248693580177,
+                                24.468732736076877
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 188,
+                            "name": "思明北路",
+                            "speed": 15,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07464832192429,
+                                24.460726522830345
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 138,
+                            "name": "中山路商圈镇邦路",
+                            "speed": 13,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.07116855587144,
+                                24.457236501317002
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "id": 342,
+                            "name": "中山路步行街",
+                            "speed": 14,
+                            "color": "#E02401"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                118.0719087596114,
+                                24.45640655531834
+                            ]
+                        }
+                    }
+                ]
+            },
+            "link": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10776372572482,
+                                    24.485653201651264
+                                ],
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#a4d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10778600370148,
+                                    24.48189479513663
+                                ],
+                                [
+                                    118.10311607267884,
+                                    24.479597980934898
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e60000"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.10311607267884,
+                                    24.479597980934898
+                                ],
+                                [
+                                    118.08248693580177,
+                                    24.468732736076877
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#e68500"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.08248693580177,
+                                    24.468732736076877
+                                ],
+                                [
+                                    118.07464832192429,
+                                    24.460726522830345
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "car",
+                            "carbon_heat_color": "#9dd200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07464832192429,
+                                    24.460726522830345
+                                ],
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "link_width": "",
+                            "transport_mode": "bike",
+                            "carbon_heat_color": "#00d200"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [
+                                    118.07116855587144,
+                                    24.457236501317002
+                                ],
+                                [
+                                    118.0719087596114,
+                                    24.45640655531834
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "route_attr": [
+        {
+            "route_id": 0,
+            "cost_time": 1319,
+            "route_time": [
+                171,
+                249,
+                160,
+                202,
+                113,
+                163,
+                93,
+                88,
+                80
+            ],
+            "total_distance": 8314,
+            "route_distance": [
+                528,
+                1772,
+                1290,
+                2109,
+                802,
+                893,
+                475,
+                201,
+                244
+            ],
+            "route_street": [
+                "福津大街",
+                "槟榔西里",
+                "湖滨东路",
+                "湖滨中路",
+                "共和路",
+                "新华路",
+                "思明西路",
+                "中山路商圈升平路",
+                "中山路商圈镇邦路",
+                "中山路步行街"
+            ],
+            "route_mode": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ],
+            "transfer_time": 2,
+            "cost_money": 20,
+            "route_carbon": 1.50435259618,
+            "route_carbon_list": [
+                0,
+                0.33011374416,
+                0.2497734848872,
+                0.4629847231327999,
+                0.14838534799999997,
+                0.19458923199999997,
+                0.11850606400000001,
+                0,
+                0
+            ],
+            "street_color": [
+                "#E02401",
+                "#F78812",
+                "#F78812",
+                "#F78812",
+                "#6ECB63",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401"
+            ]
+        },
+        {
+            "route_id": 1,
+            "cost_time": 1405,
+            "route_time": [
+                171,
+                249,
+                160,
+                381,
+                136,
+                134,
+                94,
+                80
+            ],
+            "total_distance": 8450,
+            "route_distance": [
+                528,
+                1772,
+                1290,
+                2577,
+                796,
+                809,
+                434,
+                244
+            ],
+            "route_street": [
+                "福津大街",
+                "槟榔西里",
+                "湖滨东路",
+                "湖滨中路",
+                "故宫路",
+                "光彩街",
+                "横竹路",
+                "中山路商圈镇邦路",
+                "中山路步行街"
+            ],
+            "route_mode": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "transfer_time": 2,
+            "cost_money": 20,
+            "route_carbon": 1.5123589130472002,
+            "route_carbon_list": [
+                0,
+                0.33011374416,
+                0.2497734848872,
+                0.49093864800000003,
+                0.16611070399999997,
+                0.165489316,
+                0.10993301600000001,
+                0
+            ],
+            "street_color": [
+                "#E02401",
+                "#F78812",
+                "#F78812",
+                "#F78812",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401"
+            ]
+        },
+        {
+            "route_id": 2,
+            "cost_time": 1435,
+            "route_time": [
+                171,
+                249,
+                160,
+                202,
+                113,
+                103,
+                129,
+                134,
+                94,
+                80
+            ],
+            "total_distance": 9704,
+            "route_distance": [
+                528,
+                1772,
+                1290,
+                2109,
+                802,
+                728,
+                988,
+                809,
+                434,
+                244
+            ],
+            "route_street": [
+                "福津大街",
+                "槟榔西里",
+                "湖滨东路",
+                "湖滨中路",
+                "共和路",
+                "新华路",
+                "双莲池街",
+                "光彩街",
+                "横竹路",
+                "中山路商圈镇邦路",
+                "中山路步行街"
+            ],
+            "route_mode": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "transfer_time": 2,
+            "cost_money": 22,
+            "route_carbon": 1.81537308818,
+            "route_carbon_list": [
+                0,
+                0.33011374416,
+                0.2497734848872,
+                0.4629847231327999,
+                0.14838534799999997,
+                0.17395704399999998,
+                0.174736412,
+                0.165489316,
+                0.10993301600000001,
+                0
+            ],
+            "street_color": [
+                "#E02401",
+                "#F78812",
+                "#F78812",
+                "#F78812",
+                "#6ECB63",
+                "#E02401",
+                "#F78812",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401"
+            ]
+        },
+        {
+            "route_id": 3,
+            "cost_time": 1490,
+            "route_time": [
+                171,
+                249,
+                160,
+                381,
+                126,
+                172,
+                189,
+                80
+            ],
+            "total_distance": 8326,
+            "route_distance": [
+                528,
+                1772,
+                1290,
+                2577,
+                323,
+                769,
+                823,
+                244
+            ],
+            "route_street": [
+                "福津大街",
+                "槟榔西里",
+                "湖滨东路",
+                "湖滨中路",
+                "故宫路",
+                "海岸街",
+                "思明北路",
+                "中山路商圈镇邦路",
+                "中山路步行街"
+            ],
+            "route_mode": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                0
+            ],
+            "transfer_time": 4,
+            "cost_money": 26,
+            "route_carbon": 1.4733483850472,
+            "route_carbon_list": [
+                0,
+                0.33011374416,
+                0.2497734848872,
+                0.49093864800000003,
+                0,
+                0.19255655600000002,
+                0.20996595199999998,
+                0
+            ],
+            "street_color": [
+                "#E02401",
+                "#F78812",
+                "#F78812",
+                "#F78812",
+                "#E02401",
+                "#F78812",
+                "#E02401",
+                "#E02401",
+                "#E02401"
+            ]
+        },
+        {
+            "route_id": 4,
+            "cost_time": 1520,
+            "route_time": [
+                171,
+                172,
+                547,
+                361,
+                189,
+                80
+            ],
+            "total_distance": 7710,
+            "route_distance": [
+                528,
+                1125,
+                3171,
+                1819,
+                823,
+                244
+            ],
+            "route_street": [
+                "福津大街",
+                "槟榔西里",
+                "湖光路",
+                "豆仔尾路",
+                "思明北路",
+                "中山路商圈镇邦路",
+                "中山路步行街"
+            ],
+            "route_mode": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "transfer_time": 2,
+            "cost_money": 18,
+            "route_carbon": 1.653880212,
+            "route_carbon_list": [
+                0,
+                0.21880229999999998,
+                0.7958541039999999,
+                0.419257856,
+                0.20996595199999998,
+                0
+            ],
+            "street_color": [
+                "#E02401",
+                "#F78812",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401",
+                "#E02401"
+            ]
+        }
+    ],
+    "all_history_Y": [
+        [
+            2436,
+            1724,
+            2186,
+            1480,
+            2895,
+            1832,
+            3947,
+            2088,
+            1644,
+            1964,
+            2907,
+            1560,
+            1647,
+            1731,
+            2072,
+            1790,
+            2029,
+            1484,
+            1832,
+            2869,
+            1396,
+            2261,
+            2648,
+            3947,
+            1520,
+            1677,
+            1731,
+            1942,
+            3613,
+            2869,
+            1560,
+            1852,
+            1900,
+            1396,
+            1816,
+            1319,
+            1677,
+            3947,
+            1644,
+            3453,
+            1731,
+            3154,
+            1644,
+            2029,
+            1809,
+            1813,
+            1319,
+            1668,
+            1942,
+            2869,
+            3565,
+            1560,
+            1852,
+            1471,
+            3453,
+            2029,
+            2907,
+            1677,
+            2092,
+            2261,
+            1734,
+            3145,
+            1419,
+            1942,
+            1667,
+            3262,
+            1520,
+            1832,
+            1712,
+            2066,
+            2869,
+            1697,
+            2261,
+            2029,
+            2869,
+            1318,
+            3145,
+            1520,
+            1319,
+            3565,
+            2036,
+            1319,
+            2036,
+            1319,
+            2646,
+            2087,
+            1957,
+            2877,
+            1560,
+            1613,
+            1613,
+            2895,
+            1734,
+            3613,
+            1809,
+            1809,
+            1318,
+            1318,
+            2186,
+            1400
+        ],
+        [
+            2186,
+            1942,
+            1396,
+            3154,
+            1900,
+            1396,
+            1677,
+            2036,
+            2895,
+            1560,
+            1734,
+            3154,
+            2907,
+            1731,
+            1319,
+            1471,
+            1560,
+            2186,
+            1677,
+            1964,
+            2261,
+            2036,
+            3145,
+            1734,
+            3453,
+            1400,
+            3453,
+            1644,
+            1318,
+            1319,
+            1809,
+            1419,
+            1900,
+            1319,
+            1942,
+            1520,
+            1942,
+            1319,
+            1832,
+            2907,
+            1560,
+            2186,
+            1697,
+            2186,
+            1942,
+            1396,
+            2261,
+            1318,
+            1400,
+            3453,
+            1832,
+            1900,
+            1677,
+            1957,
+            1677,
+            1964,
+            1668,
+            1677,
+            1520,
+            1319,
+            1724,
+            1520,
+            2436,
+            1480,
+            1832,
+            1832,
+            1644,
+            2907,
+            1647,
+            1790,
+            1484,
+            1484,
+            1832,
+            2648,
+            1677,
+            1677,
+            1706,
+            1731,
+            1852,
+            1900,
+            1677,
+            1644,
+            1731,
+            1731,
+            3154,
+            1644,
+            1319,
+            1654,
+            1942,
+            1852,
+            1471,
+            2029,
+            2029,
+            2261,
+            1667,
+            1832,
+            1832,
+            1712,
+            1712,
+            2869
+        ],
+        [
+            1712,
+            1832,
+            1832,
+            1560,
+            1644,
+            1520,
+            1964,
+            1644,
+            1832,
+            1712,
+            1318,
+            2869,
+            1677,
+            1712,
+            1706,
+            2261,
+            1942,
+            2036,
+            1900,
+            1396,
+            1832,
+            2261,
+            1942,
+            2261,
+            1942,
+            1560,
+            2029,
+            2036,
+            1712,
+            1900,
+            1832,
+            1654,
+            1520,
+            1668,
+            1677,
+            1319,
+            1942,
+            1520,
+            1644,
+            1677,
+            1942,
+            2029,
+            1318,
+            1480,
+            2029,
+            1560,
+            1942,
+            2869,
+            1832,
+            1647,
+            1795,
+            1560,
+            1560,
+            1832,
+            1706,
+            1677,
+            1677,
+            1900,
+            1677,
+            2648,
+            1319,
+            2036,
+            3453,
+            1520,
+            1419,
+            1900,
+            1942,
+            1318,
+            2029,
+            2261,
+            2029,
+            1964,
+            1520,
+            1731,
+            1832,
+            1731,
+            2186,
+            1942,
+            1668,
+            1396,
+            1677,
+            2036,
+            2907,
+            1731,
+            2186,
+            1677,
+            3453,
+            1400,
+            1400,
+            1318,
+            1319,
+            1942,
+            1942,
+            1942,
+            1319,
+            1560,
+            2186,
+            2186,
+            1832,
+            1677
+        ],
+        [
+            1964,
+            1900,
+            1712,
+            2261,
+            1900,
+            1560,
+            1942,
+            1731,
+            1832,
+            2186,
+            1520,
+            1795,
+            2029,
+            1396,
+            1644,
+            1706,
+            1647,
+            1795,
+            1712,
+            1550,
+            1677,
+            1319,
+            1942,
+            1706,
+            1677,
+            1795,
+            1319,
+            1560,
+            2261,
+            1400,
+            2907,
+            1560,
+            1560,
+            2261,
+            2869,
+            1644,
+            1396,
+            1677,
+            1942,
+            2261,
+            1319,
+            1677,
+            1319,
+            1795,
+            1706,
+            1942,
+            1960,
+            1989,
+            2261,
+            1942,
+            1677,
+            1942,
+            1644,
+            2261,
+            1837,
+            1680,
+            2029,
+            1560,
+            1712,
+            1319,
+            1560,
+            1520,
+            1731,
+            2029,
+            1832,
+            1677,
+            1942,
+            1900,
+            1319,
+            3453,
+            1942,
+            1319,
+            1319,
+            1677,
+            1400,
+            1668,
+            1644,
+            1520,
+            1644,
+            1832,
+            1832,
+            1677,
+            1712,
+            2261,
+            2036,
+            1900,
+            1396,
+            1942,
+            1712,
+            1319,
+            1942,
+            1942,
+            1942,
+            1795,
+            1560,
+            1677,
+            1900,
+            1319,
+            1319,
+            2036
+        ],
+        [
+            1550,
+            1560,
+            1668,
+            1837,
+            1896,
+            1964,
+            1896,
+            1396,
+            2261,
+            1731,
+            2907,
+            1319,
+            1712,
+            2186,
+            1712,
+            1520,
+            1942,
+            1319,
+            1647,
+            1731,
+            1560,
+            1396,
+            1712,
+            1731,
+            2261,
+            1942,
+            1832,
+            1712,
+            1832,
+            1319,
+            1677,
+            1942,
+            1677,
+            1731,
+            2029,
+            1832,
+            1560,
+            1400,
+            1668,
+            1520,
+            1560,
+            1647,
+            1668,
+            2036,
+            1647,
+            1942,
+            1319,
+            2029,
+            1550,
+            1400,
+            1900,
+            1677,
+            1938,
+            1562,
+            1560,
+            1837,
+            1795,
+            1560,
+            1712,
+            1942,
+            1550,
+            1832,
+            1837,
+            1942,
+            1964,
+            1712,
+            1712,
+            1900,
+            2186,
+            1795,
+            1396,
+            1755,
+            1706,
+            1550,
+            1677,
+            1677,
+            1706,
+            1706,
+            1560,
+            1560,
+            1560,
+            1677,
+            1677,
+            1677,
+            1960,
+            1960,
+            1989,
+            1677,
+            1942,
+            1942,
+            1680,
+            1680,
+            1680,
+            1712,
+            1712,
+            1712,
+            1560,
+            1520,
+            1520,
+            2029
+        ],
+        [
+            1647,
+            1562,
+            1677,
+            1562,
+            1520,
+            1677,
+            1562,
+            1560,
+            1396,
+            1942,
+            1942,
+            1960,
+            1706,
+            1319,
+            1560,
+            1677,
+            1668,
+            1677,
+            1680,
+            1731,
+            1520,
+            1896,
+            1668,
+            2907,
+            1560,
+            1562,
+            1550,
+            1706,
+            1964,
+            1706,
+            1680,
+            1706,
+            1896,
+            1942,
+            2907,
+            1647,
+            1562,
+            1677,
+            1960,
+            1520,
+            1896,
+            1706,
+            1319,
+            1680,
+            1900,
+            1520,
+            1832,
+            1520,
+            1795,
+            1896,
+            1964,
+            2907,
+            1900,
+            1560,
+            1942,
+            1677,
+            1942,
+            1964,
+            1706,
+            1560,
+            1560,
+            1964,
+            2003,
+            1562,
+            1942,
+            1560,
+            1550,
+            1795,
+            1706,
+            1677,
+            1677,
+            1550,
+            1964,
+            1643,
+            1989,
+            1396,
+            1731,
+            1712,
+            1964,
+            1900,
+            1668,
+            1837,
+            1837,
+            1964,
+            1896,
+            2907,
+            2907,
+            1668,
+            1319,
+            1647,
+            1731,
+            1560,
+            1712,
+            1712,
+            1712,
+            1832,
+            1677,
+            1677,
+            1731,
+            1731
+        ],
+        [
+            1960,
+            1647,
+            1560,
+            1668,
+            1706,
+            1731,
+            1942,
+            1562,
+            1562,
+            1319,
+            1319,
+            1942,
+            1942,
+            1832,
+            1562,
+            1668,
+            1942,
+            1562,
+            1396,
+            1562,
+            1677,
+            2907,
+            1562,
+            2029,
+            1964,
+            1706,
+            1900,
+            1668,
+            1795,
+            1731,
+            1731,
+            1896,
+            1677,
+            1562,
+            1668,
+            2003,
+            1560,
+            1706,
+            1562,
+            1964,
+            1319,
+            1560,
+            1319,
+            1562,
+            1832,
+            1647,
+            1900,
+            1677,
+            1562,
+            1560,
+            1560,
+            1319,
+            1832,
+            1900,
+            1942,
+            1896,
+            1560,
+            1706,
+            1896,
+            2907,
+            1896,
+            1680,
+            1668,
+            1900,
+            2107,
+            1795,
+            1896,
+            1520,
+            1680,
+            1319,
+            1562,
+            1706,
+            1562,
+            1560,
+            1960,
+            1960,
+            1960,
+            1560,
+            1560,
+            1560,
+            1677,
+            1731,
+            1896,
+            1706,
+            1550,
+            1680,
+            1942,
+            2907,
+            1562,
+            1677,
+            1706,
+            1680,
+            1520,
+            1900,
+            1900,
+            1560,
+            1942,
+            1560,
+            2003,
+            1562
+        ],
+        [
+            1731,
+            1562,
+            1680,
+            1900,
+            1896,
+            1942,
+            1668,
+            1562,
+            1668,
+            1562,
+            1668,
+            1641,
+            1520,
+            1731,
+            2107,
+            1795,
+            1562,
+            1668,
+            1647,
+            1668,
+            1319,
+            1677,
+            1942,
+            2003,
+            1562,
+            1650,
+            1896,
+            2003,
+            1562,
+            1550,
+            1647,
+            2003,
+            1960,
+            1520,
+            1896,
+            1562,
+            1677,
+            1319,
+            1731,
+            1668,
+            1677,
+            1520,
+            1668,
+            1562,
+            1706,
+            1668,
+            1668,
+            1680,
+            1520,
+            1562,
+            1900,
+            1960,
+            1900,
+            1896,
+            1706,
+            1942,
+            2907,
+            1668,
+            1647,
+            1562,
+            1731,
+            1560,
+            1562,
+            1706,
+            1560,
+            1942,
+            1942,
+            1706,
+            1960,
+            1647,
+            1562,
+            1942,
+            1942,
+            1562,
+            1562,
+            1562,
+            1562,
+            1562,
+            1706,
+            1562,
+            1562,
+            1562,
+            1964,
+            1964,
+            1964,
+            1900,
+            1668,
+            1795,
+            1731,
+            1706,
+            1706,
+            1964,
+            1319,
+            1896,
+            1560,
+            1560,
+            1560,
+            1896,
+            1795,
+            1896
+        ],
+        [
+            1647,
+            1668,
+            1647,
+            1731,
+            1562,
+            1668,
+            1562,
+            1896,
+            2907,
+            1562,
+            1520,
+            1706,
+            1706,
+            1319,
+            1520,
+            1647,
+            1562,
+            1964,
+            1706,
+            1562,
+            1668,
+            1520,
+            1900,
+            1731,
+            1677,
+            1960,
+            1560,
+            1562,
+            1942,
+            1647,
+            1562,
+            1731,
+            1562,
+            1668,
+            1900,
+            1694,
+            1938,
+            1562,
+            1650,
+            1319,
+            2907,
+            1319,
+            1706,
+            1562,
+            1520,
+            1960,
+            1960,
+            1677,
+            1896,
+            1942,
+            1560,
+            1562,
+            1896,
+            1795,
+            1706,
+            1896,
+            1319,
+            1520,
+            1520,
+            1706,
+            1520,
+            1562,
+            1319,
+            2003,
+            1900,
+            1706,
+            2907,
+            1562,
+            1647,
+            1668,
+            1562,
+            1960,
+            1896,
+            1668,
+            1562,
+            1520,
+            1706,
+            1960,
+            1731,
+            1731,
+            1562,
+            1900,
+            1896,
+            1562,
+            1668,
+            1668,
+            1641,
+            1520,
+            1319,
+            1677,
+            1942,
+            1650,
+            2003,
+            1550,
+            1550,
+            1550,
+            2003,
+            2003,
+            2003,
+            1960
+        ],
+        [
+            1706,
+            1668,
+            1562,
+            1650,
+            1580,
+            1896,
+            1562,
+            1650,
+            1942,
+            1677,
+            1562,
+            1319,
+            1647,
+            1562,
+            1520,
+            1562,
+            1647,
+            1668,
+            1795,
+            1942,
+            1647,
+            1562,
+            1319,
+            1706,
+            1560,
+            1712,
+            1731,
+            1647,
+            1731,
+            1319,
+            1668,
+            1562,
+            1731,
+            1668,
+            1960,
+            1562,
+            1712,
+            1938,
+            1520,
+            1562,
+            1550,
+            1405,
+            1647,
+            1550,
+            1731,
+            1706,
+            2003,
+            1562,
+            1560,
+            1562,
+            1960,
+            2003,
+            1795,
+            1562,
+            1562,
+            1706,
+            1677,
+            1942,
+            1706,
+            1647,
+            1560,
+            1520,
+            1668,
+            1319,
+            1520,
+            1647,
+            1731,
+            1706,
+            1319,
+            1677,
+            1668,
+            1319,
+            1731,
+            1319,
+            1647,
+            1668,
+            1647,
+            1731,
+            1731,
+            1731,
+            1562,
+            1562,
+            1668,
+            1562,
+            1562,
+            1896,
+            1706,
+            1471,
+            1319,
+            1647,
+            1647,
+            1562,
+            1964,
+            1520,
+            1900,
+            1731,
+            1677,
+            1560,
+            1560,
+            1562
+        ],
+        [
+            1562,
+            1731,
+            1562,
+            1706,
+            1942,
+            1319,
+            1668,
+            1896,
+            1319,
+            1562,
+            1562,
+            1706,
+            1731,
+            1520,
+            1964,
+            1731,
+            1562,
+            1668,
+            1562,
+            1731,
+            1471,
+            1964,
+            1471,
+            1520,
+            1560,
+            1562,
+            1677,
+            1677,
+            1520,
+            1647,
+            1580,
+            1319,
+            1319,
+            1562,
+            1942,
+            1520,
+            1562,
+            1520,
+            1731,
+            1647,
+            1964,
+            1668,
+            1731,
+            1562,
+            1562,
+            1668,
+            1562,
+            1319,
+            1706,
+            1580,
+            1964,
+            1668,
+            1731,
+            1405,
+            1942,
+            1668,
+            1668,
+            1900,
+            2003,
+            1520,
+            1560,
+            2003,
+            1731,
+            1520,
+            1706,
+            1562,
+            1319,
+            1647,
+            1562,
+            1562,
+            1942,
+            1712,
+            1731,
+            1731,
+            1647,
+            1319,
+            1562,
+            1960,
+            1562,
+            1562,
+            1593,
+            1938,
+            1938,
+            1562,
+            1562,
+            1550,
+            1405,
+            1647,
+            1647,
+            1647,
+            1731,
+            1731,
+            2003,
+            1562,
+            1560,
+            1562,
+            1960,
+            2003,
+            1319,
+            1677
+        ],
+        [
+            1319,
+            1647,
+            1668,
+            1647,
+            1731,
+            1960,
+            1562,
+            1677,
+            1731,
+            1580,
+            1560,
+            1319,
+            1960,
+            1562,
+            1471,
+            1562,
+            2003,
+            1731,
+            1520,
+            1562,
+            1562,
+            1731,
+            1647,
+            1731,
+            1520,
+            1647,
+            1668,
+            1731,
+            1562,
+            1520,
+            1960,
+            1520,
+            1706,
+            1562,
+            1668,
+            1560,
+            1520,
+            1319,
+            1731,
+            1942,
+            1706,
+            1580,
+            1562,
+            1960,
+            1471,
+            1562,
+            1896,
+            1668,
+            1964,
+            1731,
+            1520,
+            1471,
+            1900,
+            1731,
+            1471,
+            1319,
+            1960,
+            1562,
+            1520,
+            1562,
+            2003,
+            1562,
+            1706,
+            1471,
+            1942,
+            1520,
+            1677,
+            1668,
+            1706,
+            1706,
+            1942,
+            1560,
+            1731,
+            1562,
+            1668,
+            1942,
+            1393,
+            1562,
+            1668,
+            1731,
+            1562,
+            1319,
+            1896,
+            1319,
+            1562,
+            1731,
+            1405,
+            1731,
+            1562,
+            1471,
+            1896,
+            1647,
+            1647,
+            1319,
+            1942,
+            1668,
+            1562,
+            1319,
+            1580,
+            1964
+        ],
+        [
+            1942,
+            1562,
+            1812,
+            1989,
+            1405,
+            1471,
+            1647,
+            1960,
+            1562,
+            1520,
+            1677,
+            1668,
+            1562,
+            1942,
+            1647,
+            1668,
+            1471,
+            1731,
+            1319,
+            1668,
+            1562,
+            1471,
+            1560,
+            1960,
+            1560,
+            1706,
+            1471,
+            1580,
+            1731,
+            1942,
+            1319,
+            1731,
+            1471,
+            1964,
+            1319,
+            1668,
+            1964,
+            1562,
+            1562,
+            1942,
+            1562,
+            1520,
+            1731,
+            1964,
+            1319,
+            1562,
+            1319,
+            1562,
+            1560,
+            1580,
+            1471,
+            1405,
+            1714,
+            1319,
+            1319,
+            1562,
+            1668,
+            1562,
+            1964,
+            1562,
+            1668,
+            1405,
+            1647,
+            1580,
+            1647,
+            1405,
+            1668,
+            1471,
+            1562,
+            1960,
+            1520,
+            1319,
+            1319,
+            1647,
+            1677,
+            1580,
+            1668,
+            1560,
+            1562,
+            1647,
+            1668,
+            1654,
+            1562,
+            1520,
+            1706,
+            1706,
+            1706,
+            1562,
+            1668,
+            1520,
+            1731,
+            1641,
+            1580,
+            1562,
+            1562,
+            1562,
+            1964,
+            1520,
+            1520,
+            1900
+        ],
+        [
+            1714,
+            1647,
+            1405,
+            1942,
+            1964,
+            1731,
+            1405,
+            1562,
+            1942,
+            1405,
+            1562,
+            1319,
+            1562,
+            1668,
+            1989,
+            1668,
+            1731,
+            1647,
+            1319,
+            1731,
+            1668,
+            1405,
+            1562,
+            1731,
+            1964,
+            1731,
+            1560,
+            1520,
+            1471,
+            1405,
+            1562,
+            1471,
+            1319,
+            1562,
+            1405,
+            1520,
+            1520,
+            1654,
+            1319,
+            1668,
+            1668,
+            1319,
+            1731,
+            1520,
+            1405,
+            1560,
+            1580,
+            1471,
+            1319,
+            1405,
+            1668,
+            1562,
+            1562,
+            1989,
+            1668,
+            1714,
+            1471,
+            1731,
+            1562,
+            1668,
+            1562,
+            1319,
+            1471,
+            1319,
+            1562,
+            1319,
+            1731,
+            1319,
+            1668,
+            1562,
+            1812,
+            1812,
+            1989,
+            1405,
+            1960,
+            1562,
+            1520,
+            1562,
+            1647,
+            1647,
+            1668,
+            1471,
+            1471,
+            1731,
+            1731,
+            1668,
+            1562,
+            1471,
+            1560,
+            1560,
+            1706,
+            1706,
+            1471,
+            1942,
+            1319,
+            1964,
+            1562,
+            1562,
+            1520,
+            1964
+        ],
+        [
+            1405,
+            1647,
+            1706,
+            1319,
+            1731,
+            1562,
+            1942,
+            1471,
+            1942,
+            1319,
+            1520,
+            1562,
+            1319,
+            1964,
+            1319,
+            1731,
+            1668,
+            1731,
+            1471,
+            1405,
+            1471,
+            1942,
+            1812,
+            1694,
+            1560,
+            1319,
+            1319,
+            1471,
+            1731,
+            1405,
+            1319,
+            1668,
+            1520,
+            1562,
+            1471,
+            1562,
+            1562,
+            1471,
+            1650,
+            1562,
+            1731,
+            1319,
+            1964,
+            1471,
+            1520,
+            1668,
+            1706,
+            1964,
+            1942,
+            1471,
+            1562,
+            1731,
+            1942,
+            1668,
+            1319,
+            1647,
+            1562,
+            1319,
+            1812,
+            1942,
+            1731,
+            1647,
+            1714,
+            1560,
+            1471,
+            1405,
+            1714,
+            1319,
+            1668,
+            1989,
+            1989,
+            1731,
+            1647,
+            1562,
+            1731,
+            1964,
+            1731,
+            1731,
+            1471,
+            1471,
+            1405,
+            1647,
+            1319,
+            1319,
+            1319,
+            1731,
+            1731,
+            1405,
+            1560,
+            1580,
+            1668,
+            1668,
+            1319,
+            1319,
+            1319,
+            1319,
+            1319,
+            1812,
+            1989,
+            1942
+        ],
+        [
+            1319,
+            1896,
+            1694,
+            1668,
+            1471,
+            1319,
+            1319,
+            1562,
+            1405,
+            1319,
+            1964,
+            1405,
+            1319,
+            1405,
+            1650,
+            1562,
+            1560,
+            1668,
+            1706,
+            1694,
+            1942,
+            1319,
+            1706,
+            1319,
+            1812,
+            1668,
+            1731,
+            1706,
+            1668,
+            1471,
+            1471,
+            1580,
+            1668,
+            1562,
+            1964,
+            1731,
+            1694,
+            1319,
+            1562,
+            1393,
+            1319,
+            1731,
+            1647,
+            1706,
+            1812,
+            1754,
+            1668,
+            1319,
+            1731,
+            1319,
+            1471,
+            1731,
+            1471,
+            1731,
+            1812,
+            1319,
+            1812,
+            1319,
+            1319,
+            1562,
+            1731,
+            1319,
+            1319,
+            1668,
+            1405,
+            1647,
+            1706,
+            1942,
+            1942,
+            1942,
+            1562,
+            1471,
+            1812,
+            1319,
+            1319,
+            1319,
+            1471,
+            1731,
+            1319,
+            1471,
+            1731,
+            1731,
+            1731,
+            1319,
+            1520,
+            1795,
+            1471,
+            1471,
+            1731,
+            1731,
+            1562,
+            1562,
+            1319,
+            1647,
+            1560,
+            1560,
+            1471,
+            1714,
+            1319,
+            1668
+        ],
+        [
+            1731,
+            1942,
+            1668,
+            1754,
+            1471,
+            1731,
+            1650,
+            1706,
+            1731,
+            1562,
+            1562,
+            1319,
+            1668,
+            1319,
+            1319,
+            1942,
+            1471,
+            1731,
+            1731,
+            1319,
+            1319,
+            1694,
+            1714,
+            1942,
+            1405,
+            1319,
+            1731,
+            1714,
+            1471,
+            1714,
+            1694,
+            1471,
+            1562,
+            1731,
+            1319,
+            1668,
+            1641,
+            1706,
+            1319,
+            1942,
+            1319,
+            1471,
+            1471,
+            1520,
+            1560,
+            1813,
+            1942,
+            1319,
+            1405,
+            1812,
+            1562,
+            1896,
+            1650,
+            1731,
+            1520,
+            1405,
+            1471,
+            1405,
+            1562,
+            1405,
+            1668,
+            1405,
+            1471,
+            1319,
+            1562,
+            1731,
+            1731,
+            1668,
+            1319,
+            1812,
+            1668,
+            1650,
+            1731,
+            1471,
+            1562,
+            1405,
+            1647,
+            1896,
+            1668,
+            1896,
+            1942,
+            1562,
+            1560,
+            1560,
+            1560,
+            1706,
+            1706,
+            1694,
+            1319,
+            1706,
+            1668,
+            1731,
+            1471,
+            1471,
+            1471,
+            1580,
+            1319,
+            1319,
+            1319,
+            1562
+        ],
+        [
+            1731,
+            1942,
+            1319,
+            1562,
+            1319,
+            1731,
+            1405,
+            1942,
+            1694,
+            1562,
+            1754,
+            1706,
+            1562,
+            1813,
+            1405,
+            1471,
+            1562,
+            1471,
+            1562,
+            1668,
+            1471,
+            1562,
+            1942,
+            1813,
+            1942,
+            1706,
+            1471,
+            1562,
+            1319,
+            1405,
+            1706,
+            1319,
+            1731,
+            1714,
+            1706,
+            1319,
+            1562,
+            1706,
+            1731,
+            1668,
+            1562,
+            1319,
+            1405,
+            1520,
+            1813,
+            1319,
+            1471,
+            1668,
+            1754,
+            1520,
+            1706,
+            1731,
+            1319,
+            1562,
+            1471,
+            1319,
+            1813,
+            1694,
+            1562,
+            1319,
+            1668,
+            1754,
+            1731,
+            1405,
+            1562,
+            1754,
+            1942,
+            1471,
+            1706,
+            1319,
+            1520,
+            1471,
+            1471,
+            1471,
+            1471,
+            1706,
+            1731,
+            1319,
+            1319,
+            1319,
+            1471,
+            1319,
+            1319,
+            1319,
+            1694,
+            1319,
+            1694,
+            1562,
+            1319,
+            1641,
+            1319,
+            1471,
+            1813,
+            1405,
+            1405,
+            1562,
+            1896,
+            1731,
+            1731,
+            1405
+        ],
+        [
+            1562,
+            1731,
+            1319,
+            1668,
+            1319,
+            1754,
+            1754,
+            1405,
+            1754,
+            1319,
+            1319,
+            1813,
+            1562,
+            1942,
+            1731,
+            1668,
+            1731,
+            1668,
+            1942,
+            1520,
+            1562,
+            1471,
+            1319,
+            1471,
+            1562,
+            1319,
+            1319,
+            1731,
+            1731,
+            1319,
+            1562,
+            1319,
+            1694,
+            1471,
+            1562,
+            1471,
+            1471,
+            1319,
+            1471,
+            1731,
+            1714,
+            1813,
+            1562,
+            1942,
+            1405,
+            1471,
+            1731,
+            1319,
+            1405,
+            1706,
+            1562,
+            1694,
+            1942,
+            1754,
+            1319,
+            1694,
+            1754,
+            1319,
+            1731,
+            1319,
+            1754,
+            1942,
+            1641,
+            1393,
+            1520,
+            1471,
+            1520,
+            1405,
+            1319,
+            1319,
+            1562,
+            1405,
+            1694,
+            1754,
+            1706,
+            1405,
+            1405,
+            1562,
+            1562,
+            1471,
+            1471,
+            1813,
+            1562,
+            1319,
+            1731,
+            1714,
+            1714,
+            1319,
+            1706,
+            1706,
+            1319,
+            1942,
+            1520,
+            1471,
+            1471,
+            1706,
+            1319,
+            1562,
+            1319,
+            1319
+        ],
+        [
+            1319,
+            1471,
+            1942,
+            1471,
+            1471,
+            1520,
+            1520,
+            1942,
+            1668,
+            1731,
+            1562,
+            1714,
+            1562,
+            1405,
+            1706,
+            1319,
+            1942,
+            1319,
+            1520,
+            1562,
+            1520,
+            1668,
+            1471,
+            1319,
+            1668,
+            1319,
+            1405,
+            1562,
+            1471,
+            1319,
+            1405,
+            1319,
+            1668,
+            1562,
+            1562,
+            1319,
+            1942,
+            1896,
+            1471,
+            1319,
+            1896,
+            1668,
+            1319,
+            1668,
+            1405,
+            1471,
+            1813,
+            1319,
+            1319,
+            1706,
+            1319,
+            1405,
+            1731,
+            1706,
+            1405,
+            1319,
+            1319,
+            1562,
+            1795,
+            1813,
+            1731,
+            1641,
+            1319,
+            1562,
+            1562,
+            1731,
+            1731,
+            1562,
+            1319,
+            1471,
+            1319,
+            1319,
+            1731,
+            1731,
+            1731,
+            1562,
+            1562,
+            1694,
+            1471,
+            1319,
+            1471,
+            1714,
+            1714,
+            1714,
+            1562,
+            1405,
+            1405,
+            1706,
+            1562,
+            1754,
+            1694,
+            1319,
+            1731,
+            1942,
+            1520,
+            1520,
+            1405,
+            1405,
+            1319,
+            1319
+        ],
+        [
+            1319,
+            1471,
+            1668,
+            1319,
+            1471,
+            1694,
+            1706,
+            1405,
+            1813,
+            1319,
+            1668,
+            1562,
+            1471,
+            1520,
+            1562,
+            1405,
+            1731,
+            1562,
+            1319,
+            1471,
+            1731,
+            1562,
+            1813,
+            1706,
+            1942,
+            1562,
+            1520,
+            1471,
+            1731,
+            1795,
+            1668,
+            1471,
+            1405,
+            1731,
+            1731,
+            1694,
+            1319,
+            1942,
+            1731,
+            1319,
+            1668,
+            1731,
+            1319,
+            1714,
+            1668,
+            1795,
+            1471,
+            1562,
+            1668,
+            1562,
+            1405,
+            1520,
+            1795,
+            1942,
+            1319,
+            1471,
+            1942,
+            1405,
+            1731,
+            1319,
+            1714,
+            1520,
+            1731,
+            1562,
+            1694,
+            1668,
+            1471,
+            1319,
+            1795,
+            1405,
+            1562,
+            1731,
+            1520,
+            1668,
+            1562,
+            1714,
+            1562,
+            1405,
+            1405,
+            1668,
+            1319,
+            1668,
+            1668,
+            1405,
+            1562,
+            1319,
+            1319,
+            1668,
+            1471,
+            1813,
+            1813,
+            1319,
+            1731,
+            1706,
+            1405,
+            1405,
+            1319,
+            1319,
+            1769,
+            1795
+        ],
+        [
+            1731,
+            1562,
+            1520,
+            1668,
+            1731,
+            1668,
+            1520,
+            1731,
+            1471,
+            1731,
+            1731,
+            1405,
+            1668,
+            1731,
+            1562,
+            1731,
+            1319,
+            1562,
+            1668,
+            1942,
+            1520,
+            1668,
+            1813,
+            1405,
+            1668,
+            1405,
+            1405,
+            1562,
+            1319,
+            1405,
+            1562,
+            1714,
+            1405,
+            1731,
+            1319,
+            1405,
+            1319,
+            1714,
+            1319,
+            1405,
+            1319,
+            1471,
+            1731,
+            1405,
+            1668,
+            1405,
+            1319,
+            1731,
+            1731,
+            1668,
+            1319,
+            1896,
+            1562,
+            1471,
+            1520,
+            1694,
+            1731,
+            1520,
+            1668,
+            1520,
+            1714,
+            1371,
+            1471,
+            1668,
+            1795,
+            1714,
+            1319,
+            1813,
+            1471,
+            1562,
+            1694,
+            1706,
+            1405,
+            1471,
+            1668,
+            1896,
+            1405,
+            1471,
+            1471,
+            1471,
+            1471,
+            1795,
+            1668,
+            1795,
+            1731,
+            1731,
+            1319,
+            1319,
+            1668,
+            1471,
+            1562,
+            1668,
+            1562,
+            1405,
+            1714,
+            1520,
+            1731,
+            1668,
+            1795,
+            1731
+        ],
+        [
+            1942,
+            1405,
+            1896,
+            1650,
+            1471,
+            1668,
+            1405,
+            1714,
+            1405,
+            1520,
+            1405,
+            1813,
+            1668,
+            1405,
+            1714,
+            1942,
+            1319,
+            1405,
+            1319,
+            1371,
+            1731,
+            1319,
+            1813,
+            1405,
+            1731,
+            1668,
+            1731,
+            1471,
+            1795,
+            1405,
+            1813,
+            1896,
+            1731,
+            1471,
+            1405,
+            1731,
+            1405,
+            1471,
+            1942,
+            1405,
+            1654,
+            1319,
+            1319,
+            1562,
+            1795,
+            1813,
+            1562,
+            1942,
+            1405,
+            1471,
+            1319,
+            1405,
+            1471,
+            1520,
+            1731,
+            1896,
+            1731,
+            1405,
+            1731,
+            1668,
+            1795,
+            1371,
+            1731,
+            1405,
+            1562,
+            1813,
+            1319,
+            1405,
+            1694,
+            1731,
+            1471,
+            1668,
+            1520,
+            1731,
+            1731,
+            1405,
+            1668,
+            1942,
+            1942,
+            1668,
+            1405,
+            1668,
+            1714,
+            1405,
+            1319,
+            1405,
+            1405,
+            1405,
+            1731,
+            1668,
+            1319,
+            1731,
+            1562,
+            1471,
+            1471,
+            1520,
+            1714,
+            1471,
+            1795,
+            1471
+        ],
+        [
+            1942,
+            1795,
+            1471,
+            1405,
+            1319,
+            1795,
+            1405,
+            1319,
+            1668,
+            1471,
+            1371,
+            1942,
+            1405,
+            1813,
+            1319,
+            1405,
+            1731,
+            1668,
+            1319,
+            1405,
+            1942,
+            1654,
+            1471,
+            1405,
+            1562,
+            1520,
+            1520,
+            1405,
+            1942,
+            1795,
+            1562,
+            1668,
+            1668,
+            1942,
+            1562,
+            1405,
+            1405,
+            1668,
+            1405,
+            1731,
+            1668,
+            1471,
+            1562,
+            1731,
+            1562,
+            1319,
+            1405,
+            1731,
+            1896,
+            1731,
+            1562,
+            1319,
+            1520,
+            1896,
+            1731,
+            1405,
+            1706,
+            2261,
+            1520,
+            1319,
+            1405,
+            1795,
+            1520,
+            1319,
+            1319,
+            1668,
+            1319,
+            1520,
+            1795,
+            1650,
+            1435,
+            1520,
+            1813,
+            1714,
+            1942,
+            1319,
+            1319,
+            1731,
+            1319,
+            1731,
+            1731,
+            1471,
+            1471,
+            1731,
+            1471,
+            1654,
+            1319,
+            1319,
+            1562,
+            1562,
+            1319,
+            1405,
+            1405,
+            1520,
+            1731,
+            1731,
+            1405,
+            1668,
+            1731,
+            1562
+        ],
+        [
+            1654,
+            1319,
+            1562,
+            1435,
+            1471,
+            1562,
+            1319,
+            1435,
+            1405,
+            1520,
+            1319,
+            1405,
+            1813,
+            1668,
+            1706,
+            1319,
+            1706,
+            1520,
+            1731,
+            1795,
+            1520,
+            1471,
+            1319,
+            1942,
+            1795,
+            1520,
+            1405,
+            1562,
+            1668,
+            1471,
+            1405,
+            1520,
+            1405,
+            1520,
+            1650,
+            1471,
+            1562,
+            1471,
+            1795,
+            1520,
+            1562,
+            1471,
+            1668,
+            1405,
+            1405,
+            1562,
+            1942,
+            1731,
+            1714,
+            1405,
+            1319,
+            1562,
+            1562,
+            1731,
+            1520,
+            1731,
+            1319,
+            1731,
+            1562,
+            1319,
+            1562,
+            1896,
+            1520,
+            1942,
+            1562,
+            1405,
+            1319,
+            1813,
+            1795,
+            1896,
+            1319,
+            1896,
+            1319,
+            1668,
+            1371,
+            1942,
+            1405,
+            1319,
+            1405,
+            1654,
+            1405,
+            1562,
+            1562,
+            1668,
+            1405,
+            1405,
+            1668,
+            1731,
+            1405,
+            1562,
+            1562,
+            1319,
+            1896,
+            1731,
+            1319,
+            1520,
+            1520,
+            1896,
+            1520,
+            1319
+        ],
+        [
+            1319,
+            1471,
+            1562,
+            1795,
+            1319,
+            1405,
+            1668,
+            1896,
+            1562,
+            1319,
+            1896,
+            1731,
+            1405,
+            1942,
+            1668,
+            1405,
+            1562,
+            1520,
+            1319,
+            1405,
+            1319,
+            1562,
+            1319,
+            1562,
+            1520,
+            1319,
+            1405,
+            1668,
+            1405,
+            1319,
+            1896,
+            1795,
+            1668,
+            1405,
+            1562,
+            1319,
+            1319,
+            1520,
+            1650,
+            1942,
+            1668,
+            1562,
+            1641,
+            1706,
+            1520,
+            1319,
+            1471,
+            1405,
+            1405,
+            1731,
+            1319,
+            1405,
+            1319,
+            1731,
+            1896,
+            1405,
+            1896,
+            1520,
+            1654,
+            1435,
+            1435,
+            1435,
+            1405,
+            1706,
+            1319,
+            1520,
+            1731,
+            1520,
+            1706,
+            1405,
+            1562,
+            1471,
+            1405,
+            1405,
+            1405,
+            1520,
+            1520,
+            1520,
+            1471,
+            1562,
+            1942,
+            1405,
+            1405,
+            1731,
+            1731,
+            1731,
+            1520,
+            1731,
+            1562,
+            1562,
+            1520,
+            1562,
+            1405,
+            1405,
+            1813,
+            1795,
+            1371,
+            1896,
+            1405,
+            1405
+        ],
+        [
+            1942,
+            1731,
+            1319,
+            1405,
+            1562,
+            1319,
+            1435,
+            1405,
+            1405,
+            1520,
+            1520,
+            1405,
+            1562,
+            1405,
+            1562,
+            1896,
+            1520,
+            1400,
+            1471,
+            1405,
+            1706,
+            1942,
+            1942,
+            1435,
+            1520,
+            1731,
+            1731,
+            1896,
+            1405,
+            1405,
+            1731,
+            1471,
+            1562,
+            1319,
+            1668,
+            1435,
+            1562,
+            1319,
+            1405,
+            1319,
+            1706,
+            1562,
+            1731,
+            1435,
+            1471,
+            1435,
+            1520,
+            1405,
+            1405,
+            1562,
+            1562,
+            1405,
+            1405,
+            1562,
+            1520,
+            1562,
+            1896,
+            1731,
+            1520,
+            1851,
+            1731,
+            1520,
+            1942,
+            1562,
+            1896,
+            1405,
+            1706,
+            1405,
+            1319,
+            1942,
+            1896,
+            1319,
+            1371,
+            1435,
+            1319,
+            1731,
+            1405,
+            1668,
+            1405,
+            1562,
+            1520,
+            1319,
+            1319,
+            1562,
+            1562,
+            1405,
+            1405,
+            1896,
+            1795,
+            1405,
+            1319,
+            1319,
+            1319,
+            1319,
+            1405,
+            1319,
+            1731,
+            1731,
+            1896,
+            1896
+        ],
+        [
+            1405,
+            1562,
+            1562,
+            1319,
+            1921,
+            1520,
+            1896,
+            1562,
+            1562,
+            1319,
+            1319,
+            1435,
+            1562,
+            1319,
+            1405,
+            1319,
+            1319,
+            1371,
+            1405,
+            1562,
+            1405,
+            1319,
+            1520,
+            1471,
+            1731,
+            1520,
+            1405,
+            1520,
+            1319,
+            1405,
+            1319,
+            1942,
+            1942,
+            1562,
+            1851,
+            1562,
+            1942,
+            1520,
+            1319,
+            1795,
+            1896,
+            1405,
+            1435,
+            1660,
+            1405,
+            1520,
+            1319,
+            1668,
+            1319,
+            1562,
+            1405,
+            1319,
+            1562,
+            1405,
+            1896,
+            1319,
+            1393,
+            1942,
+            1405,
+            1319,
+            1471,
+            1319,
+            1520,
+            1319,
+            1319,
+            1371,
+            1942,
+            1942,
+            1731,
+            1319,
+            1319,
+            1562,
+            1319,
+            1405,
+            1562,
+            1562,
+            1896,
+            1435,
+            1731,
+            1731,
+            1896,
+            1405,
+            1647,
+            1562,
+            1731,
+            1731,
+            1435,
+            1405,
+            1562,
+            1562,
+            1562,
+            1562,
+            1562,
+            1405,
+            1706,
+            1706,
+            1405,
+            1319,
+            1319,
+            1371
+        ],
+        [
+            1562,
+            1405,
+            1319,
+            1942,
+            1405,
+            1319,
+            1405,
+            1520,
+            1562,
+            1319,
+            1405,
+            1435,
+            1562,
+            1647,
+            1520,
+            1319,
+            1319,
+            1520,
+            1731,
+            1520,
+            1405,
+            1731,
+            1405,
+            1562,
+            1520,
+            1562,
+            1562,
+            1405,
+            1562,
+            1520,
+            1706,
+            1319,
+            1319,
+            1706,
+            1562,
+            1319,
+            1562,
+            1319,
+            1562,
+            1405,
+            1471,
+            1319,
+            1660,
+            1405,
+            1520,
+            1435,
+            1562,
+            1319,
+            1520,
+            1562,
+            1319,
+            1405,
+            1405,
+            1942,
+            1405,
+            1562,
+            1471,
+            1319,
+            1520,
+            1660,
+            1405,
+            1562,
+            1562,
+            1319,
+            1319,
+            1647,
+            1319,
+            1405,
+            1405,
+            1471,
+            1393,
+            1471,
+            1731,
+            1520,
+            1405,
+            1405,
+            1520,
+            1520,
+            1319,
+            1896,
+            1435,
+            1319,
+            1668,
+            1668,
+            1471,
+            1405,
+            1405,
+            1319,
+            1405,
+            1319,
+            1371,
+            1319,
+            1319,
+            1405,
+            1405,
+            1562,
+            1562,
+            1405,
+            1647,
+            1562
+        ],
+        [
+            1319,
+            1405,
+            1319,
+            1405,
+            1319,
+            1520,
+            1520,
+            1319,
+            1520,
+            1319,
+            1520,
+            1471,
+            1405,
+            1319,
+            1731,
+            1562,
+            1471,
+            1319,
+            1562,
+            1405,
+            1405,
+            1319,
+            1405,
+            1562,
+            1405,
+            1942,
+            1520,
+            1562,
+            1562,
+            1896,
+            1405,
+            1319,
+            1795,
+            1405,
+            1405,
+            1319,
+            1405,
+            1319,
+            1319,
+            1647,
+            1562,
+            1471,
+            1562,
+            1319,
+            1562,
+            1520,
+            1520,
+            1471,
+            1405,
+            1562,
+            1562,
+            1405,
+            1520,
+            1471,
+            1471,
+            1731,
+            1471,
+            1405,
+            1405,
+            1435,
+            1319,
+            1405,
+            1795,
+            1405,
+            1520,
+            1520,
+            1562,
+            1319,
+            1405,
+            1405,
+            1520,
+            1319,
+            1319,
+            1319,
+            1319,
+            1405,
+            1405,
+            1405,
+            1562,
+            1405,
+            1405,
+            1706,
+            1319,
+            1319,
+            1562,
+            1520,
+            1435,
+            1520,
+            1520,
+            1319,
+            1405,
+            1405,
+            1405,
+            1405,
+            1405,
+            1562,
+            1660,
+            1405,
+            1706,
+            1319
+        ]
+    ]
+}

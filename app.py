@@ -75,10 +75,17 @@ def calc_multi_route():
     data = request.get_json()
     print(data)
     ga = MultiRoute.MultiRoute("./static/GA_input_data")
-    route = ga.calc_multi_route(data)
-    # fp = fileProcessing.FileProcessing()
-    # route = fp.load_data("test")
+    # route = ga.calc_multi_route(data)
+    fp = fileProcessing.FileProcessing()
+    # route = fp.load_data("test-add")
+    # route = fp.load_data("test-change")
     # route = fp.load_data("test_one-moudle")
+
+    sleep(1)
+    if data["add_station"] is not None:
+        route = fp.load_data("test-add")
+    else:
+        route = fp.load_data("实验路线")
     return jsonify(route)
 
 
